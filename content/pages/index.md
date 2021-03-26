@@ -134,7 +134,7 @@ sections:
     title: Nasza oferta
     subtitle: Grid Section Example
     grid_items:
-      - title: Section Item 1
+      - title: Sprzedaż
         title_align: center
         content_align: left
         actions:
