@@ -170,7 +170,7 @@ sections:
         title_align: center
         content_align: left
         actions:
-          - label: Learn More
+          - label: Zobacz więcej
             url: /style-guide
             style: secondary
             has_icon: false
