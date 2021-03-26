@@ -140,7 +140,7 @@ sections:
         actions:
           - label: Zobacz więcej
             url: /style-guide
-            style: link
+            style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: center
