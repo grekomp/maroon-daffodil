@@ -132,7 +132,6 @@ sections:
     background_color: primary
   - type: grid_section
     title: Nasza oferta
-    subtitle: Grid Section Example
     grid_items:
       - title: Sprzedaż
         title_align: center
