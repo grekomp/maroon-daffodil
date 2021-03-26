@@ -167,6 +167,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
+        actions_width: full-width
       - title: Serwis
         title_align: center
         content_align: left
