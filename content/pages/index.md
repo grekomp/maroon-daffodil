@@ -173,7 +173,7 @@ sections:
           - label: Learn More
             url: /style-guide
             style: link
-            has_icon: true
+            has_icon: false
             icon: arrow-right
             icon_position: center
         actions_align: center
