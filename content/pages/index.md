@@ -166,7 +166,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Serwi
+      - title: Serwis
         title_align: center
         content_align: left
         actions:
