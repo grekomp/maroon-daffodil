@@ -150,6 +150,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
+        actions_width: full-width
       - title: Usługi instalacyjne
         title_align: center
         content_align: left
