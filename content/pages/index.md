@@ -151,7 +151,7 @@ sections:
         image_has_padding: true
         actions_width: full-width
         content: |
-          Bogaty asortyment urządzeń i\npbsproduktów branży instalacyjnej.
+          Bogaty asortyment urządzeń i\nbspproduktów branży instalacyjnej.
       - title: Usługi instalacyjne
         title_align: center
         content_align: left
