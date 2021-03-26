@@ -138,7 +138,7 @@ sections:
         title_align: center
         content_align: left
         actions:
-          - label: Learn More
+          - label: Zobacz więcej
             url: /style-guide
             style: link
             has_icon: true
