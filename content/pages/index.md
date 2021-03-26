@@ -35,6 +35,7 @@ sections:
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
+        title: World
       - image: images/logo-3.svg
         image_alt: Gatsby logo
         image_align: center
