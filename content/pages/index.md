@@ -183,6 +183,8 @@ sections:
         image_align: center
         image_has_padding: true
         actions_width: full-width
+        content: |
+          Autoryzowany serwis instalacji i urządzeń wielu marek.
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: small
