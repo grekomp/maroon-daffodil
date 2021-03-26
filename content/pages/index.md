@@ -167,6 +167,9 @@ sections:
         image_align: center
         image_has_padding: true
         actions_width: full-width
+        content: >
+          Profesjonalne projektowanie, wycena oraz montaż instalacji, a także
+          wiele innych.
       - title: Serwis
         title_align: center
         content_align: left
