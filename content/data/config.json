@@ -5,7 +5,7 @@
     "style": "minimal",
     "palette": "red",
     "mode": "light",
-    "base_font": "serif",
+    "base_font": "sans-serif",
     "header": {
         "title": "DIY",
         "logo": "images/classic/logo.svg",
