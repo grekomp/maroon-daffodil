@@ -8,7 +8,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "Copos",
-        "logo": "images/classic/logo.svg",
+        "logo": "images/copos_logo.svg",
         "logo_alt": "DIY logo",
         "has_primary_nav": true,
         "primary_nav_links": [
