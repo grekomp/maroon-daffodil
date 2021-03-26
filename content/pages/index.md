@@ -152,7 +152,7 @@ sections:
         image: images/classic/icon-1.svg
         image_alt: Section item 1 icon
         image_position: top
-        image_align: left
+        image_align: center
         image_has_padding: true
       - title: Section Item 2
         title_align: left
