@@ -21,7 +21,7 @@ sections:
         default_value: adres@example.com
         is_required: false
         type: form_field
-        name: Imię i nazwisko
+        name: Email
       - input_type: tel
         label: Telefon
         default_value: 123 456 789
