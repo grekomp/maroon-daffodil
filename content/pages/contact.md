@@ -36,7 +36,7 @@ sections:
         is_required: true
         type: form_field
       - input_type: checkbox
-        name: Zgoda RODO 1
+        name: Oświadczenie RODO
         label: Oświadczam, iż zapoznałem/zapoznałam się z klauzulą informacyjną RODO
         options: []
         is_required: true
