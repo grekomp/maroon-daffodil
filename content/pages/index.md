@@ -7,7 +7,7 @@ sections:
       Oferujemy sprzedaż, usługi instalacyjne dla budownictwa indywidualnego i
       przemysłowego oraz kompleksowy serwis.
     actions:
-      - label: Try Free
+      - label: Zobacz nasze realizacje
         url: /pricing
         style: primary
       - label: Learn More
