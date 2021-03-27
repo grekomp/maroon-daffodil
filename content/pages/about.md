@@ -17,13 +17,18 @@ sections:
           Nasza firma powstała w 1987r.
 
 
-          Dzięki zdobytemu przez ponad 30 lat działalności doświadczeniu jesteśmy w stanie realizować ambitne projekty, które wymagają wiedzy, zaplecza sprzętowego i logistycznego.
+          Dzięki zdobytemu przez ponad 30 lat działalności doświadczeniu
+          jesteśmy w stanie realizować ambitne projekty, które wymagają wiedzy,
+          zaplecza sprzętowego i logistycznego.
         image: images/DSC02248.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
-      - content: |
-          Głównym celem firmy jest kompleksowa realizacja inwestycji w zakresie systemów grzewczych, technologicznych, wentylacyjnych i klimatyzacyjnych począwszy od koncepcji, projektu, realizacji a kończąc na serwisie.
+      - content: >
+          Głównym celem firmy jest kompleksowa realizacja inwestycji w zakresie
+          systemów grzewczych, technologicznych, wentylacyjnych i
+          klimatyzacyjnych począwszy od koncepcji, projektu, realizacji a
+          kończąc na serwisie.
         actions: []
         image_alt: lorem-ipsum
         media_position: left
@@ -31,20 +36,25 @@ sections:
         align: left
         type: feature
         image: images/DSC01934.jpg
-      - content: |
-          Posiadamy również punkt sprzedaży zaopatrujący inne firmy instalacyjne, ale również klientów indywidualnych
+      - content: >
+          Posiadamy również punkt sprzedaży zaopatrujący inne firmy
+          instalacyjne, ale również klientów indywidualnych
 
 
-          Naszymi klientami są inwestorzy indywidualni ale przede wszystkim przedsiębiorstwa, zakłady produkcyjne, logistyczne, instytucje Państwowe.
+
+          Naszymi klientami są inwestorzy indywidualni ale przede wszystkim
+          przedsiębiorstwa, zakłady produkcyjne, logistyczne, instytucje
+          Państwowe.
         actions: []
         image_alt: lorem-ipsum
         media_position: right
         media_width: fifty
         align: left
         type: feature
-        image: images/DSC01934.jpg
-      - content: |
-          Ciągłe inwestowanie w rozwój, wdrażanie nowych technologii pozwoliły nam na ugruntowanie naszej pozycji na rynku instalacyjnym.
+        image: images/DSC02130.jpg
+      - content: >
+          Ciągłe inwestowanie w rozwój, wdrażanie nowych technologii pozwoliły
+          nam na ugruntowanie naszej pozycji na rynku instalacyjnym.
         actions: []
         image_alt: lorem-ipsum
         media_position: left
