@@ -90,16 +90,7 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     content: >-
