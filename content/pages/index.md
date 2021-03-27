@@ -10,7 +10,7 @@ sections:
       - label: Zobacz nasze realizacje
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Kontakt
         url: /features
         style: secondary
     image: images/classic/hero.png
