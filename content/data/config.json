@@ -89,7 +89,7 @@
         "secondary_nav_links": [
             {
                 "label": "O firmie",
-                "url": "/blog/category/news",
+                "url": "/",
                 "style": "link"
             },
             {
