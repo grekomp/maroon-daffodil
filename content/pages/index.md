@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Ponad 30 lat doświadczenia w branży instalacyjnej
     content: >
-      Oferujemy sprzedaż, usługi instalacyjne dla budownictwa indywidualnego i
+      > Oferujemy sprzedaż, usługi instalacyjne dla budownictwa indywidualnego i
       przemysłowego oraz kompleksowy serwis.
     actions:
       - label: Zobacz nasze realizacje
