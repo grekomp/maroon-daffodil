@@ -49,11 +49,11 @@ sections:
       - input_type: checkbox
         name: Zgoda RODO 2
         label: >-
-          Wyrażam zgodę na przetwarzanie podanych przeze mnie w powyższym
-          formularzu danych osobowych w celu wyjaśnienia zgłoszonej przeze mnie
-          sprawy i kontaktu ze mną w związku z moim zapytaniem. Zgoda jest zgodą
-          dobrowolną, którą można wycofać w dowolnym momencie (bez wpływu na
-          zgodność przetwarzania, którego dokonano przed jej wycofaniem),
+          Wyrażam zgodę na otrzymywanie informacji o treściach marketingowych oraz
+handlowych w formie elektronicznej (e-mail, SMS) oraz w formie połączeń
+głosowych (rozmowy telefoniczne). Zgoda jest zgodą dobrowolną, którą można
+wycofać w dowolnym momencie (bez wpływu na zgodność przetwarzania, którego
+dokonano przed jej wycofaniem),
         options: []
         is_required: true
         type: form_field
