@@ -118,7 +118,7 @@ sections:
   - title: Section title
     subtitle: Optional section subtitle
     actions:
-      - label: lorem-ipsum
+      - label: Section action
         url: '#'
         style: primary
         has_icon: true
