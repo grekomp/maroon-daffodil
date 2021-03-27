@@ -61,7 +61,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/DSC01934.jpg
+        image: images/DSC02197.jpg
   - type: grid_section
     title: Nasza oferta
     grid_items:
