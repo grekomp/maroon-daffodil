@@ -13,7 +13,8 @@ sections:
     background_image_opacity: 40
   - type: features_section
     features:
-      - content: "Nasza firma powstała w 1987r.\nDzięki zdobytemu przez ponad 30 lat działalności doświadczeniu\_ jesteśmy w stanie realizować ambitne projekty, które wymagają wiedzy, zaplecza sprzętowego i logistycznego.\n\nGłównym celem firmy jest kompleksowa realizacja inwestycji w zakresie systemów grzewczych, technologicznych, wentylacyjnych i klimatyzacyjnych począwszy od koncepcji, projektu, realizacji a kończąc na\_ serwisie.\n\nPosiadamy również punkt sprzedaży zaopatrujący inne firmy instalacyjne, ale również klientów indywidualnych\n\nNaszymi klientami są inwestorzy indywidualni ale przede wszystkim\_ przedsiębiorstwa, zakłady produkcyjne, logistyczne, instytucje Państwowe.\n\nCiągłe inwestowanie w rozwój, wdrażanie nowych technologii pozwoliły nam na ugruntowanie naszej\_ pozycji na\_ rynku instalacyjnym.\n"
+      - content: |
+      "Nasza firma powstała w 1987r.\nDzięki zdobytemu przez ponad 30 lat działalności doświadczeniu\_ jesteśmy w stanie realizować ambitne projekty, które wymagają wiedzy, zaplecza sprzętowego i logistycznego.\n\nGłównym celem firmy jest kompleksowa realizacja inwestycji w zakresie systemów grzewczych, technologicznych, wentylacyjnych i klimatyzacyjnych począwszy od koncepcji, projektu, realizacji a kończąc na\_ serwisie.\n\nPosiadamy również punkt sprzedaży zaopatrujący inne firmy instalacyjne, ale również klientów indywidualnych\n\nNaszymi klientami są inwestorzy indywidualni ale przede wszystkim\_ przedsiębiorstwa, zakłady produkcyjne, logistyczne, instytucje Państwowe.\n\nCiągłe inwestowanie w rozwój, wdrażanie nowych technologii pozwoliły nam na ugruntowanie naszej\_ pozycji na\_ rynku instalacyjnym.\n"
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
