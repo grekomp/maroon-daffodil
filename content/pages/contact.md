@@ -43,7 +43,6 @@ sections:
           sprawy i kontaktu ze mną w związku z moim zapytaniem. Zgoda jest zgodą
           dobrowolną, którą można wycofać w dowolnym momencie (bez wpływu na
           zgodność przetwarzania, którego dokonano przed jej wycofaniem),
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
