@@ -38,7 +38,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: center
-        image: images/classic/icon-1.svg
+        image: images/sprzedaż.png
         image_alt: Section item 1 icon
         image_position: top
         image_align: center
