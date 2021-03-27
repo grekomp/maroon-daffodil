@@ -63,7 +63,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         media_position: top
         media_width: fifty
-        align: right
+        align: left
         type: feature
   - type: grid_section
     title: Nasza oferta
