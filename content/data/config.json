@@ -103,7 +103,7 @@
                 "style": "link"
             }
         ],
-        "has_tertiary_nav": true,
+        "has_tertiary_nav": false,
         "tertiary_nav_title": "Ważne informacje",
         "tertiary_nav_links": [
             {
