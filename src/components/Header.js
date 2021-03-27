@@ -8,7 +8,7 @@ import HeaderMenu from './HeaderMenu';
 export default class Header extends React.Component {
     render() {
         return (
-            <header className="site-header pt-3 pb-2">
+            <header className="site-header pt-4 pb-2">
             	<div className="container">
             		<nav className="navbar flex items-center" aria-label="Main Navigation">
             			<Link className="sr-only" href="#content">Skip to main content</Link>
