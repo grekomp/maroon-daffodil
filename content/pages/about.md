@@ -20,10 +20,7 @@ sections:
           Dzięki zdobytemu przez ponad 30 lat działalności doświadczeniu jesteśmy w stanie realizować ambitne projekty, które wymagają wiedzy, zaplecza sprzętowego i logistycznego.
 
 
-          Posiadamy również punkt sprzedaży zaopatrujący inne firmy instalacyjne, ale również klientów indywidualnych
-
-
-          Naszymi klientami są inwestorzy indywidualni ale przede wszystkim przedsiębiorstwa, zakłady produkcyjne, logistyczne, instytucje Państwowe.
+          
 
 
           Ciągłe inwestowanie w rozwój, wdrażanie nowych technologii pozwoliły nam na ugruntowanie naszej pozycji na rynku instalacyjnym.
