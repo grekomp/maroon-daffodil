@@ -6,7 +6,7 @@ sections:
     align: center
     background_color: secondary
     image: images/copos_logo.svg
-    media_position: left
+    media_position: bottom
     subtitle: asdf
     image_alt: Copos logo
   - title: lorem-ipsum
