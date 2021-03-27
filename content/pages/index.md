@@ -22,7 +22,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: images/about-5.jpg
+    background_image: images/IMG_5109.jpeg
     background_image_opacity: 10
   - type: grid_section
     title: Nasza oferta
