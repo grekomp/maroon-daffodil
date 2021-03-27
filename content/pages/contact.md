@@ -44,7 +44,7 @@ sections:
           dobrowolną, którą można wycofać w dowolnym momencie (bez wpływu na
           zgodność przetwarzania, którego dokonano przed jej wycofaniem),
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: Wyślij
     align_vert: top
