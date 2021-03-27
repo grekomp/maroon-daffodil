@@ -27,7 +27,7 @@ sections:
         default_value: 123 456 789
         is_required: false
         type: form_field
-        name: Imię i nazwisko
+        name: Telefon
       - input_type: textarea
         name: lorem-ipsum
         label: lorem-ipsum
