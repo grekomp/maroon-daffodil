@@ -44,7 +44,6 @@ sections:
           ## Biuro czynne
 
           Poniedziałek - Piątek
-
           7:00 - 15:00
         content_align: left
         actions: []
