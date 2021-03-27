@@ -7,6 +7,7 @@ sections:
     background_color: secondary
     image: images/copos_logo.svg
     media_position: top
+    subtitle: asdf
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
