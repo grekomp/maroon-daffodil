@@ -36,8 +36,9 @@ sections:
         type: form_field
       - input_type: checkbox
         name: Oświadczenie RODO
-        label: |
-          Oświadczam, iż zapoznałem/zapoznałam się z [klauzulą informacyjną RODO](/rodo)
+        label: >
+          Oświadczam, iż zapoznałem/zapoznałam się z [klauzulą informacyjną
+          RODO](/rodo)
         options: []
         is_required: true
         type: form_field
@@ -55,17 +56,19 @@ sections:
     title: Kontakt
     content: |
       ### Dane firmy
-      - Copos sp. z o. o.
-      - ul. Knurowska 61, 41-800 Zabrze
 
+      *   Copos sp. z o. o.
 
-      - NIP: 648 22 22 066<br>
-      - KRS: 0000100408
+      *   ul. Knurowska 61, 41-800 Zabrze
+
+      *   NIP: 648 22 22 066<br>
+
+      *   KRS: 0000100408
 
       ### Dane kontaktowe
 
-      - email: <copos@copos.com.pl>
-      - telefon: [32 276 13 42](tel:322761342)
+      *   email: <copos@copos.com.pl>
+      *   **telefon: **[**32 276 13 42**](tel:322761342)
 
       ### Biuro czynne
 
@@ -214,20 +217,20 @@ seo:
   title: Contact
   description: This is the contact page
   extra:
-    - name: "og:type"
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: "og:title"
+    - name: 'og:title'
       value: Contact
       keyName: property
-    - name: "og:description"
+    - name: 'og:description'
       value: This is the contact page
       keyName: property
-    - name: "twitter:card"
+    - name: 'twitter:card'
       value: summary
-    - name: "twitter:title"
+    - name: 'twitter:title'
       value: Contact
-    - name: "twitter:description"
+    - name: 'twitter:description'
       value: This is the contact page
 layout: advanced
 ---
