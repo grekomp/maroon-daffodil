@@ -28,6 +28,13 @@ sections:
         is_required: false
         type: form_field
         name: Imię i nazwisko
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     submit_label: Wyślij
     align_vert: top
     padding_top: medium
