@@ -3,7 +3,6 @@ title: About
 sections:
   - type: hero_section
     title: O firmie
-    subtitle: About Page Demo
     align: center
     background_color: secondary
   - title: lorem-ipsum
