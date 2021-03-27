@@ -20,12 +20,9 @@ sections:
 
           Posiadamy również punkt sprzedaży zaopatrujący inne firmy instalacyjne, ale również klientów indywidualnych
 
-          Naszymi klientami są inwestorzy indywidualni ale przede wszystkim
-          przedsiębiorstwa, zakłady produkcyjne, logistyczne, instytucje
-          Państwowe.
+          Naszymi klientami są inwestorzy indywidualni ale przede wszystkim przedsiębiorstwa, zakłady produkcyjne, logistyczne, instytucje Państwowe.
 
-          Ciągłe inwestowanie w rozwój, wdrażanie nowych technologii pozwoliły
-          nam na ugruntowanie naszej pozycji na rynku instalacyjnym.
+          Ciągłe inwestowanie w rozwój, wdrażanie nowych technologii pozwoliły nam na ugruntowanie naszej pozycji na rynku instalacyjnym.
         image: images/DSC02248.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
