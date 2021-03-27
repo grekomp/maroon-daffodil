@@ -17,7 +17,7 @@ sections:
         type: form_field
         name: Imię i nazwisko
       - input_type: text
-        label: Imię i nazwisko
+        label: E-mail
         default_value: Jan Kowalski
         is_required: false
         type: form_field
