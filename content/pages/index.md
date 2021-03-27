@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Ponad 30 lat doświadczenia
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Oferujemy sprzedaż, usługi instalacyjne dla budownictwa indywidualnego i
+      przemysłowego oraz kompleksowy serwis.
     actions:
       - label: Try Free
         url: /pricing
