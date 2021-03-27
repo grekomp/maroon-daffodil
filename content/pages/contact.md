@@ -22,6 +22,8 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
     title: Kontakt
+    content: |
+      ss
   - title: Kontakt
     actions: []
     grid_items:
