@@ -1,5 +1,5 @@
 ---
-title: About
+title: O firmie
 sections:
   - type: hero_section
     align: center
