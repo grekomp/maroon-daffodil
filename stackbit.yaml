@@ -1063,10 +1063,12 @@ models:
         name: title
         label: Title
         description: The title of the section
+        default: Section title
       - type: string
         name: subtitle
         label: Subtitle
         description: The subtitle of the section displayed below the title
+        default: Optional section subtitle
       - type: markdown
         name: content
         label: Content
