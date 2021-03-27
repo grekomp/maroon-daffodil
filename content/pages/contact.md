@@ -28,7 +28,7 @@ sections:
         is_required: false
         type: form_field
         name: Imię i nazwisko
-      - input_type: text
+      - input_type: textarea
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
