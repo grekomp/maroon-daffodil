@@ -23,7 +23,7 @@ sections:
       ## Dane kontaktowe
 
       email: <copos@copos.com.pl>
-      telefon: [32 276 13 42](<tel:32 276 13 42>)
+      telefon: [32 276 13 42](tel:322761342)
 
       ## Biuro czynne
 
