@@ -116,7 +116,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Subtitle
     content: >-
       ## Lorem ipsum
 
