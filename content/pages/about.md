@@ -20,8 +20,6 @@ sections:
           jesteśmy w stanie realizować ambitne projekty, które wymagają wiedzy,
           zaplecza sprzętowego i logistycznego.
 
-          
-
           Posiadamy również punkt sprzedaży zaopatrujący inne firmy
           instalacyjne, ale również klientów indywidualnych
 
