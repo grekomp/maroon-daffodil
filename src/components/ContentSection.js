@@ -99,7 +99,7 @@ export default class ContentSection extends React.Component {
                     </h1>
                   )}
                   {_.get(section, "subtitle", null) && (
-                    <h2 className="section__subtitle">
+                    <h2 className="content__subtitle">
                       {_.get(section, "subtitle", null)}
                     </h2>
                   )}
