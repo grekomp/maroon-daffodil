@@ -5,6 +5,7 @@ sections:
     title: O firmie
     align: center
     background_color: secondary
+    image: images/copos_logo.svg
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
