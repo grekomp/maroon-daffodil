@@ -157,5 +157,6 @@
         ],
         "content": "&copy; Copos sp. z o. o."
     },
-    "domain": "https://maroon-daffodil-e48e3.netlify.app"
+    "domain": "https://maroon-daffodil-e48e3.netlify.app",
+    "favicon": "images/logoblob.png"
 }
