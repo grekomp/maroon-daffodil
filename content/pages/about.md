@@ -39,7 +39,7 @@ sections:
         media_position: right
         media_width: fifty
       - content: |
-          ## Lorem ipsum
+           Lorem ipsum
         actions: []
         image_alt: lorem-ipsum
         media_position: left
