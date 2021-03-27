@@ -16,6 +16,18 @@ sections:
         is_required: false
         type: form_field
         name: Imię i nazwisko
+      - input_type: text
+        label: Imię i nazwisko
+        default_value: Jan Kowalski
+        is_required: false
+        type: form_field
+        name: Imię i nazwisko
+      - input_type: text
+        label: Imię i nazwisko
+        default_value: Jan Kowalski
+        is_required: false
+        type: form_field
+        name: Imię i nazwisko
     submit_label: Wyślij
     align_vert: top
     padding_top: medium
