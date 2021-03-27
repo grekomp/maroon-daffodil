@@ -96,11 +96,6 @@
         "tertiary_nav_title": "Ważne informacje",
         "tertiary_nav_links": [
             {
-                "label": "Terms & Conditions",
-                "url": "/terms-conditions",
-                "style": "link"
-            },
-            {
                 "label": "Polityka prywatności RODO",
                 "url": "/polityka-prywatnosci",
                 "style": "link"
