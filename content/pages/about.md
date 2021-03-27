@@ -32,7 +32,6 @@ sections:
   - type: features_section
     features:
       - title: Section Title One
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
         content: >
           W ofercie sprzedaży firmy „COPOS” znajduje się szeroki wachlarz
           artykułów branży instalacyjnej niezbędnych do wykonania wszelkich prac
