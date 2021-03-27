@@ -121,7 +121,7 @@ sections:
       # Lorem ipsum
 
 
-      ##
+      ## Subtitle
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
