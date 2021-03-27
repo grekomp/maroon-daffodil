@@ -150,19 +150,7 @@
             }
         ],
         "content": "&copy; Copos sp. z o. o.",
-        "links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ]
+        "links": []
     },
     "domain": "https://maroon-daffodil-e48e3.netlify.app",
     "favicon": "images/logoblob.png"
