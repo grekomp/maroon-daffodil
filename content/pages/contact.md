@@ -4,8 +4,7 @@ sections:
   - title: Kontakt
     actions: []
     grid_items:
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: |
           ## Dane firmy
 
