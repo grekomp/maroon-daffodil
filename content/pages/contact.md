@@ -16,7 +16,7 @@ sections:
         is_required: false
         type: form_field
         name: Imię i nazwisko
-      - input_type: text
+      - input_type: email
         label: E-mail
         default_value: adres@example.com
         is_required: false
