@@ -47,7 +47,7 @@ sections:
         is_required: true
         type: form_field
       - input_type: checkbox
-        name: Zgoda RODO 1
+        name: Zgoda RODO 2
         label: >-
           Wyrażam zgodę na przetwarzanie podanych przeze mnie w powyższym
           formularzu danych osobowych w celu wyjaśnienia zgłoszonej przeze mnie
