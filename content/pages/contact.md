@@ -29,8 +29,8 @@ sections:
         content: |
           ## Dane firmy
 
-          Copos sp. z o. o.
-          ul. Knurowska 61, 41-800 Zabrze
+          - Copos sp. z o. o.
+          - ul. Knurowska 61, 41-800 Zabrze
 
           NIP: 648 22 22 066<br>
           KRS: 0000100408
