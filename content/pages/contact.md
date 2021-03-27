@@ -70,6 +70,7 @@ sections:
 
       Poniedziałek - Piątek<br>
       7:00 - 15:00
+    form_id: contact-form
   - title: Kontakt
     actions: []
     grid_items:
