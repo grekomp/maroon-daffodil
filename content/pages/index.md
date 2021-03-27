@@ -117,17 +117,17 @@ sections:
     background_color: secondary
   - title: lorem-ipsum
     subtitle: Subtitle
-    content: >-
-      ## Lorem ipsum
+    content: >
+      # Lorem ipsum
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+      *   dolor sit amet
     actions: []
     actions_position: bottom
     actions_width: fourty
