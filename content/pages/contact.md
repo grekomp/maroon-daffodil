@@ -29,7 +29,7 @@ sections:
         type: form_field
         name: Telefon
       - input_type: textarea
-        name: lorem-ipsum
+        name: 
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
