@@ -9,7 +9,6 @@ sections:
     media_position: bottom
     image_alt: Copos logo
     media_width: fourty
-    background_image: images/DSC02248.jpg
     background_image_opacity: 40
   - type: features_section
     features:
