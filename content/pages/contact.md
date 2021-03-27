@@ -29,8 +29,8 @@ sections:
         type: form_field
         name: Telefon
       - input_type: textarea
-        name: 
-        label: lorem-ipsum
+        name: Wiadomość
+        label: Wiadomość
         default_value: lorem-ipsum
         options: []
         is_required: false
