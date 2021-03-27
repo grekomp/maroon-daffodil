@@ -128,7 +128,6 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-    subtitle: iuj
   - type: grid_section
     title: Our Officess
     grid_items:
