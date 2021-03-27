@@ -91,21 +91,6 @@ sections:
     align: center
     background_color: none
     actions: []
-  - type: cta_section
-    title: Ponad 30 lat doświadczenia w branży instalacyjnej
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-    actions:
-      - label: Kontakt
-        url: /pricing
-        style: primary
-    actions_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: secondary
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
