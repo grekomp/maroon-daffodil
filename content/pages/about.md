@@ -68,7 +68,7 @@ sections:
       poniżej.
     actions:
       - label: Kontakt
-        url: /pricing
+        url: /kontakt
         style: primary
     align: center
     padding_top: medium
