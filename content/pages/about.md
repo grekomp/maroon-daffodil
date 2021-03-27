@@ -52,6 +52,15 @@ sections:
         align: left
         type: feature
         image: images/DSC01934.jpg
+      - content: |
+          ## Lorem ipsum
+        actions: []
+        image_alt: lorem-ipsum
+        media_position: left
+        media_width: fifty
+        align: left
+        type: feature
+        image: images/DSC01934.jpg
   - type: grid_section
     title: Nasza oferta
     grid_items:
