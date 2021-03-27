@@ -31,7 +31,7 @@ sections:
       - input_type: textarea
         name: Wiadomość
         label: Wiadomość
-        default_value: lorem-ipsum
+        default_value: Treść wiadomości
         options: []
         is_required: false
         type: form_field
