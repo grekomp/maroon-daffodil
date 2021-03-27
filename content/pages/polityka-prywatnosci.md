@@ -8,26 +8,22 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-**Jak przetwarzamy Państwa
-dane osobowe? – Klauzula informacyjna RODO**
+## **Jak przetwarzamy Państwa&#xA;dane osobowe? – Klauzula informacyjna RODO**
 
-COPOS Spółka z ograniczoną odpowiedzialnością z siedzibą w Zabrzu (41-800), przy ul.
-Knurowskiej 61 jest **administratorem Pani/Pana danych osobowych**.
+COPOS Spółka z ograniczoną odpowiedzialnością z siedzibą w Zabrzu (41-800), przy ul. Knurowskiej 61 jest **administratorem Pani/Pana danych osobowych**.
 
-Dane osobowe uzyskane przy  kierowaniu
-zapytań ofertowych, przy zgłaszaniu usług serwisowych, przy zawieraniu umowy
-oraz w trakcie jej trwania Administrator wykorzystuje w następujących celach:
+Dane osobowe uzyskane przy  kierowaniu zapytań ofertowych, przy zgłaszaniu usług serwisowych, przy zawieraniu umowy oraz w trakcie jej  trwania Administrator wykorzystuje w następujących celach:
 
-1.      **zawarcia i wykonania łączącej umowy** –
-przez czas trwania umowy i rozliczeń po jej zakończeniu (podstawa prawna: art.
-6 ust. 1 b) RODO, w skrócie „wykonanie umowy”);
+1.  **zawarcia i wykonania łączącej umowy** –
+    przez czas trwania umowy i rozliczeń po jej zakończeniu (podstawa prawna: art.
+    6 ust. 1 b) RODO, w skrócie „wykonanie umowy”);
 
-2.      **wykonania ciążących na Administratorze obowiązków prawnych**, np.:
+2.  **wykonania ciążących na Administratorze obowiązków prawnych**, np.:
 
-a.       wystawianie i przechowywanie faktur oraz dokumentów księgowych,
+    1.  wystawianie i przechowywanie faktur oraz dokumentów księgowych,
 
-b.      udzielanie odpowiedzi na pisma i zapytania w terminie i formie
-przewidzianych przepisami.
+    2.  odpowiedzi na pisma i zapytania w terminie i formie
+        przewidzianych przepisami.
 
 **Z danych potrzebnych do
 realizacji obowiązków prawnych Administrator będzie korzystać:**
@@ -43,7 +39,7 @@ niewykonania obowiązku, np. otrzymać karę finansową od urzędów państwowyc
 dalszych kontrahentów Administratora (podstawa prawna: art. 6 ust. 1 f) RODO; w
 skrócie „prawnie uzasadniony interes”);
 
-3.      **wykrywania nadużyć i zapobiegania im **–
+3.      \*\*wykrywania nadużyć i zapobiegania im \*\*–
 przez czas trwania umowy (podstawa prawna: wykonanie umowy), a następnie przez
 okres, po którym przedawnią się roszczenia wynikające z umowy, a w przypadku
 dochodzenia przez Administratora roszczeń lub zawiadamiania właściwych organów
@@ -55,17 +51,17 @@ co obejmuje m.in. sprzedaż wierzytelności Administratora z umowy innemu
 podmiotowi – przez okres, po którym przedawnią się roszczenia wynikające z
 umowy (podstawa prawna: prawnie uzasadniony interes Administratora);
 
-5.      **marketingu bezpośredniego **– przez czas
+5.      \*\*marketingu bezpośredniego \*\*– przez czas
 trwania umowy (podstawa prawna: prawnie uzasadniony interes Administratora);
 
-6.      **tworzenia zestawień, analiz i statystyk **na
+6.      \*\*tworzenia zestawień, analiz i statystyk \*\*na
 potrzeby wewnętrzne Administratora; obejmuje to w szczególności raportowanie,
 badania marketingowe, planowanie rozwoju usług – przez czas trwania umowy, a
 następnie nie dłużej niż przez okres, po którym przedawnią się roszczenia
 wynikające z umowy (podstawa prawna: prawnie uzasadniony interes
 Administratora);
 
-7.      **weryfikacji wiarygodności płatniczej **–
+7.      \*\*weryfikacji wiarygodności płatniczej \*\*–
 przez okres niezbędny do dokonania takiej oceny przy zawarciu, przedłużeniu lub
 rozszerzeniu zakresu tej lub kolejnej umowy oraz do rozpatrywania związanych z
 tym roszczeń (podstawa prawna: wykonanie umowy); dotyczy to także danych
@@ -84,14 +80,14 @@ nie otrzyma, nie będzie mógł np. dzwonić pod numer kontaktowy, awizować i
 nadzorować wykonania Umowy, zlecenia serwisowego, zapytania ofertowego).
 Podawanie danych przy zawarciu umowy **nie jest wymogiem ustawowym**.
 
-**Komu Administrator
-przekazuje Państwa dane? **
+\*\*Komu Administrator
+przekazuje Państwa dane? \*\*
 
 Państwa dane osobowe są
 przekazywane:
 
-1\)      **podmiotom przetwarzającym **dane w imieniu
-Administratora, uczestniczącym w wykonywaniu czynności Administratora: 
+1\)      \*\*podmiotom przetwarzającym \*\*dane w imieniu
+Administratora, uczestniczącym w wykonywaniu czynności Administratora:
 
 a)      obsługującym systemy teleinformatyczne Administratora lub
 udostępniającym Administratorowi narzędzia teleinformatyczne,
@@ -100,7 +96,7 @@ b)      podwykonawcom wspierającym Administratora, c) podmiotom świadczą
 Administratorowi usługi doradcze, konsultacyjne, audytowe, pomoc prawną,
 podatkową, rachunkową działającym na zlecenie Administratora;
 
-2\)       **innym administratorom **danych
+2\)       \*\*innym administratorom \*\*danych
 przetwarzającym dane we własnym imieniu:
 
 a)      podmiotom prowadzącym działalność pocztową lub kurierską;
@@ -112,36 +108,36 @@ c)      podmiotom współpracującym z Administratorem przy obsłudze spraw
 księgowych, podatkowych, prawnych – w zakresie, w jakim staną się
 administratorem danych;
 
-**Czy Państwa dane trafią
-poza Europejski Obszar Gospodarczy (EOG)? **
+\*\*Czy Państwa dane trafią
+poza Europejski Obszar Gospodarczy (EOG)? \*\*
 
 Obecnie Administrator nie planuje
 przekazywać danych poza EOG (obejmujący Unię Europejską, Norwegię,
 Liechtenstein i Islandię).
 
-**Automatyczne podejmowanie
-decyzji **
+\*\*Automatyczne podejmowanie
+decyzji \*\*
 
 Administrator nie podejmuje
 automatyczne decyzji mające istotny skutek dla Państwa.
 
-**Państwa uprawnienia **
+\*\*Państwa uprawnienia \*\*
 
 Możecie Państwo złożyć wniosek do
 Administratora (dotyczący danych osobowych) o:
 
-a)      **sprostowanie **(poprawienie) danych;
+a)      \*\*sprostowanie \*\*(poprawienie) danych;
 
-b)      **usunięcie **danych przetwarzanych
+b)      \*\*usunięcie \*\*danych przetwarzanych
 bezpodstawnie lub umieszczonych w serwisach internetowych Administratora
 
-c)      **ograniczenie przetwarzania **(wstrzymanie
+c)      \*\*ograniczenie przetwarzania \*\*(wstrzymanie
 operacji na danych lub nieusuwanie danych – stosownie do złożonego wniosku);
 
-d)      **dostęp **do danych (o informację o
+d)      \*\*dostęp \*\*do danych (o informację o
 przetwarzanych przez Administratora danych oraz o kopię danych);
 
-e)      **przeniesienie danych **do innego
+e)      \*\*przeniesienie danych \*\*do innego
 administratora danych lub do Państwa (w zakresie określonym w art. 20 RODO).
 
 Z tych praw możecie Państwo
@@ -153,7 +149,7 @@ oraz sytuacje, w których można z nich skorzystać, wynikają z przepisów praw
 To, z którego uprawnienia możecie Państwo skorzystać, zależeć będzie np. od
 podstawy prawnej wykorzystywania przez Administratora danych oraz od celu ich przetwarzania.
 
-**Prawo sprzeciwu **
+\*\*Prawo sprzeciwu \*\*
 
 Niezależnie od praw wymienionych
 wyżej możecie Państwo w dowolnym momencie wnieść sprzeciw wobec przetwarzania
@@ -162,8 +158,8 @@ bezpośredniego**. Po przyjęciu wniosku w tej sprawie Administrator jest
 zobowiązany do zaprzestania przetwarzania danych w tym celu. W szczególnych
 sytuacjach możecie Państwo w dowolnym momencie wnieść sprzeciw wobec
 przetwarzania przez Administratora danych osobowych (w tym profilowania), jeśli
-podstawą wykorzystania danych jest **prawnie uzasadniony interes
-Administratora **lub **interes publiczny**. W takiej
+podstawą wykorzystania danych jest \*\*prawnie uzasadniony interes
+Administratora \*\*lub **interes publiczny**. W takiej
 sytuacji, po rozpatrzeniu Państwa wniosku, Administrator nie będzie mógł
 przetwarzać danych osobowych objętych sprzeciwem na tej podstawie, chyba że
 Administrator wykaże, iż istnieją:
@@ -174,8 +170,7 @@ lub
 
 2\)      podstawy do ustalenia, dochodzenia lub obrony roszczeń.
 
-**Zgoda **
-
+\*\*Zgoda \*\*
 
 Jeżeli wykorzystanie przez Administratora Państwa danych osobowych nie jest
 konieczne do wykonania umowy, realizacji obowiązku prawnego lub nie stanowi **prawnie
@@ -184,8 +179,7 @@ wyrażenie zgody na określone sposoby wykorzystania Państwa danych. Udzieloną
 zgodę możecie Państwo w każdej chwili wycofać (nie będzie to wpływać na
 zgodność z prawem wykorzystania Państwa danych przed cofnięciem takiej zgody).
 
-**Skarga **
-
+\*\*Skarga \*\*
 
 Macie Państwo prawo wnieść skargę do Prezesa Urzędu Ochrony Danych Osobowych,
 jeżeli uważają Państwo, że przetwarzanie Państwa danych osobowych narusza
