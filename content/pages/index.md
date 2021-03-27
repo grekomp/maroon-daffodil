@@ -22,6 +22,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
+    background_image: images/about-5.jpg
   - type: grid_section
     title: Nasza oferta
     grid_items:
