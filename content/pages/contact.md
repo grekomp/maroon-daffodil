@@ -33,7 +33,6 @@ sections:
           ul. Knurowska 61, 41-800 Zabrze
 
           NIP: 648 22 22 066
-
           KRS: 0000100408
 
           ## Dane kontaktowe
