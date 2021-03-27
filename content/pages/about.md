@@ -36,10 +36,7 @@ sections:
         media_position: right
         media_width: fifty
       - content: |
-          Głównym celem firmy jest kompleksowa realizacja inwestycji w zakresie
-          systemów grzewczych, technologicznych, wentylacyjnych i
-          klimatyzacyjnych począwszy od koncepcji, projektu, realizacji a
-          kończąc na serwisie.
+          Głównym celem firmy jest kompleksowa realizacja inwestycji w zakresie systemów grzewczych, technologicznych, wentylacyjnych i klimatyzacyjnych począwszy od koncepcji, projektu, realizacji a kończąc na serwisie.
         actions: []
         image_alt: lorem-ipsum
         media_position: left
