@@ -67,7 +67,7 @@ sections:
       Skontaktuj się z nami aby omówić szczegóły, lub zapoznaj z naszą ofertą
       poniżej.
     actions:
-      - label: Compare Plans
+      - label: Kontakt
         url: /pricing
         style: primary
     align: center
