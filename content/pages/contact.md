@@ -41,17 +41,6 @@ sections:
         options: []
         is_required: true
         type: form_field
-      - input_type: checkbox
-        name: Zgoda RODO 2
-        label: >-
-          Wyrażam zgodę na otrzymywanie informacji o treściach marketingowych oraz
-          handlowych w formie elektronicznej (e-mail, SMS) oraz w formie połączeń
-          głosowych (rozmowy telefoniczne). Zgoda jest zgodą dobrowolną, którą można
-          wycofać w dowolnym momencie (bez wpływu na zgodność przetwarzania, którego
-          dokonano przed jej wycofaniem),
-        options: []
-        is_required: true
-        type: form_field
     submit_label: Wyślij
     align_vert: top
     padding_top: medium
