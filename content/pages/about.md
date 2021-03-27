@@ -20,6 +20,72 @@ sections:
         media_position: right
         media_width: fifty
   - type: grid_section
+    title: Nasza oferta
+    grid_items:
+      - title: Sprzedaż
+        title_align: center
+        content_align: left
+        actions:
+          - label: Zobacz więcej
+            url: /style-guide
+            style: secondary
+            has_icon: false
+            icon: arrow-right
+            icon_position: center
+        actions_align: center
+        image: images/sprzedaż.png
+        image_alt: Section item 1 icon
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions_width: full-width
+        content: |
+          Bogaty asortyment urządzeń i produktów branży instalacyjnej.
+      - title: Usługi instalacyjne
+        title_align: center
+        content_align: left
+        actions:
+          - label: Zobacz więcej
+            url: /style-guide
+            style: secondary
+            has_icon: false
+            icon: arrow-right
+            icon_position: center
+        actions_align: center
+        image: images/usługi-instalacyjne.png
+        image_alt: Section item 2 icon
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions_width: full-width
+        content: |
+          Profesjonalne projektowanie, wycena oraz montaż instalacji, i inne.
+      - title: Serwis
+        title_align: center
+        content_align: left
+        actions:
+          - label: Zobacz więcej
+            url: /style-guide
+            style: secondary
+            has_icon: false
+            icon: arrow-right
+            icon_position: center
+        actions_align: center
+        image: images/serwis.png
+        image_alt: Section item 3 icon
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions_width: full-width
+        content: |
+          Autoryzowany serwis instalacji i urządzeń wielu marek.
+    grid_cols: three
+    grid_gap_horiz: medium
+    grid_gap_vert: small
+    enable_cards: true
+    align: center
+    background_color: none
+  - type: grid_section
     title: Our Officess
     grid_items:
       - title: Some City
