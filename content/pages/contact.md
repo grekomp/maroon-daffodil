@@ -26,7 +26,7 @@ sections:
 
       Poniedziałek - Piątek
       7:00 - 15:00
-  - title: lorem-ipsum
+  - title: Kontakt
     actions: []
     grid_items:
       - title: lorem-ipsum
