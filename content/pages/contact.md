@@ -33,17 +33,24 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          ## Dane firmy
 
+          Copos sp. z o. o.
+          ul. Knurowska 61, 41-800 Zabrze
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          NIP: 648 22 22 066
+          KRS: 0000100408
 
+          ## Dane kontaktowe
 
-          - Lorem ipsum
+          email: <copos@copos.com.pl>
+          telefon: [32 276 13 42](tel:322761342)
 
-          - dolor sit amet
+          ## Biuro czynne
+
+          Poniedziałek - Piątek
+          7:00 - 15:00
         content_align: left
         actions: []
         actions_align: left
