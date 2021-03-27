@@ -39,7 +39,7 @@ sections:
 
           Ciągłe inwestowanie w rozwój, wdrażanie nowych technologii pozwoliły
           nam na ugruntowanie naszej pozycji na rynku instalacyjnym.
-        image: images/about-5.jpg
+        image: images/DSC02248.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
