@@ -91,9 +91,9 @@ sections:
           - label: Zobacz więcej
             url: /style-guide
             style: secondary
-            has_icon: false
+            has_icon: true
             icon: arrow-right
-            icon_position: center
+            icon_position: right
         actions_align: center
         image: images/usługi-instalacyjne.png
         image_alt: Section item 2 icon
