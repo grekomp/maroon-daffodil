@@ -12,7 +12,7 @@ sections:
     form_fields:
       - input_type: text
         label: Imię i nazwisko
-        default_value: lorem-ipsum
+        default_value: Jan Kowalski
         options: []
         is_required: false
         type: form_field
