@@ -9,6 +9,7 @@ sections:
     media_position: bottom
     image_alt: Copos logo
     media_width: fourty
+    background_image: images/DSC02248.jpg
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
