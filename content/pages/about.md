@@ -38,7 +38,10 @@ sections:
         type: feature
         image: images/DSC01934.jpg
       - content: |
-          ## Lorem ipsum
+          Posiadamy również punkt sprzedaży zaopatrujący inne firmy instalacyjne, ale również klientów indywidualnych
+
+
+          Naszymi klientami są inwestorzy indywidualni ale przede wszystkim przedsiębiorstwa, zakłady produkcyjne, logistyczne, instytucje Państwowe.
         actions: []
         image_alt: lorem-ipsum
         media_position: right
