@@ -13,22 +13,58 @@ sections:
     background_image_opacity: 40
   - type: features_section
     features:
-      - content: |
+      - content: >
           Nasza firma powstała w 1987r.
-          
-          Dzięki zdobytemu przez ponad 30 lat działalności doświadczeniu jesteśmy w stanie realizować ambitne projekty, które wymagają wiedzy, zaplecza sprzętowego i logistycznego.
-          
-          Głównym celem firmy jest kompleksowa realizacja inwestycji w zakresie systemów grzewczych, technologicznych, wentylacyjnych i klimatyzacyjnych począwszy od koncepcji, projektu, realizacji a kończąc na serwisie.
-          
-          Posiadamy również punkt sprzedaży zaopatrujący inne firmy instalacyjne, ale również klientów indywidualnych
-          
-          Naszymi klientami są inwestorzy indywidualni ale przede wszystkim przedsiębiorstwa, zakłady produkcyjne, logistyczne, instytucje Państwowe.
-          
-          Ciągłe inwestowanie w rozwój, wdrażanie nowych technologii pozwoliły nam na ugruntowanie naszej pozycji na rynku instalacyjnym.
+
+
+          Dzięki zdobytemu przez ponad 30 lat działalności doświadczeniu
+          jesteśmy w stanie realizować ambitne projekty, które wymagają wiedzy,
+          zaplecza sprzętowego i logistycznego.
+
+
+          Głównym celem firmy jest kompleksowa realizacja inwestycji w zakresie
+          systemów grzewczych, technologicznych, wentylacyjnych i
+          klimatyzacyjnych począwszy od koncepcji, projektu, realizacji a
+          kończąc na serwisie.
+
+
+          Posiadamy również punkt sprzedaży zaopatrujący inne firmy
+          instalacyjne, ale również klientów indywidualnych
+
+
+          Naszymi klientami są inwestorzy indywidualni ale przede wszystkim
+          przedsiębiorstwa, zakłady produkcyjne, logistyczne, instytucje
+          Państwowe.
+
+
+          Ciągłe inwestowanie w rozwój, wdrażanie nowych technologii pozwoliły
+          nam na ugruntowanie naszej pozycji na rynku instalacyjnym.
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        image_alt: lorem-ipsum
+        video_embed_html: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        media_position: top
+        media_width: fifty
+        align: left
+        type: feature
   - type: grid_section
     title: Nasza oferta
     grid_items:
