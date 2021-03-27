@@ -36,7 +36,7 @@ sections:
         is_required: true
         type: form_field
       - input_type: checkbox
-        name: lorem-ipsum
+        name: Zgoda RODO 1
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
