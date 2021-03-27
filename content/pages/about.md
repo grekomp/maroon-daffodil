@@ -63,7 +63,9 @@ sections:
         image: images/DSC02197.jpg
   - type: cta_section
     title: Jesteś zainteresowany współpracą?
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: >
+      Skontaktuj się z nami aby omówić szczegóły, lub zapoznaj z naszą ofertą
+      poniżej.
     actions:
       - label: Compare Plans
         url: /pricing
