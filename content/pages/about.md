@@ -33,10 +33,51 @@ sections:
     features:
       - title: Section Title One
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          W ofercie sprzedaży firmy „COPOS” znajduje się szeroki wachlarz
+          artykułów branży instalacyjnej niezbędnych do wykonania wszelkich prac
+          związanych z ogrzewaniem, wentylacją, klimatyzacją, instalacjami wody
+          ,kanalizacji i gazu.
+
+
+          W naszej ofercie znajdują się między innymi:
+
+
+          *   kotły
+
+
+          *   podgrzewacze CWU
+
+
+          *   grzejniki
+
+
+          *   pompy ciepła
+
+
+          *   armatura instalacyjna
+
+
+          *   ceramika łazienkowa
+
+
+          *   zawory
+
+
+          *   izolacje
+
+
+          *   odkurzacze centralne
+
+
+          *   ponadto – wkłady kominowe, naczynia przeponowe, uchwyty,
+          uszczelki, wężyki ciepłomierze, wodomierze, manometry, odpowietrzniki,
+          listwy osłonowe, narzędzia instalatorskie, preparaty uzdatniające,
+          filtry, wymienniki, sterowniki i wiele innych
+
+
+          Asortyment ten jest stale poszerzany o produkty renomowanych firm, z
+          uwzględnieniem potrzeb klientów.
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
