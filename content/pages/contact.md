@@ -24,7 +24,7 @@ sections:
         name: Imię i nazwisko
       - input_type: tel
         label: Telefon
-        default_value: 123 456 
+        default_value: 123 456 789
         is_required: false
         type: form_field
         name: Imię i nazwisko
