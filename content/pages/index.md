@@ -13,7 +13,6 @@ sections:
       - label: Kontakt
         url: /features
         style: secondary
-    image: images/copos_logo_blob.svg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
