@@ -1,8 +1,7 @@
 ---
 title: Kontakt
 sections:
-  - title: lorem-ipsum
-    title_align: center
+  - title_align: center
     content: >-
       ## Lorem ipsum
 
