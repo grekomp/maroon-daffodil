@@ -8,7 +8,7 @@ sections:
     image: images/copos_logo.svg
     media_position: bottom
     image_alt: Copos logo
-    media_width: sixty
+    media_width: fourty
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
