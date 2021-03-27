@@ -63,7 +63,7 @@
         "primary_nav_title": "Oferta",
         "primary_nav_links": [
             {
-                "label": "About",
+                "label": "Sprzedaż",
                 "url": "/about",
                 "style": "link"
             },
