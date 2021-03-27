@@ -20,7 +20,9 @@ sections:
           
           Głównym celem firmy jest kompleksowa realizacja inwestycji w zakresie systemów grzewczych, technologicznych, wentylacyjnych i klimatyzacyjnych począwszy od koncepcji, projektu, realizacji a kończąc na serwisie.
           
-          Posiadamy również punkt sprzedaży zaopatrujący inne firmy instalacyjne, ale również klientów indywidualnych\n\nNaszymi klientami są inwestorzy indywidualni ale przede wszystkim\_ przedsiębiorstwa, zakłady produkcyjne, logistyczne, instytucje Państwowe.\n\nCiągłe inwestowanie w rozwój, wdrażanie nowych technologii pozwoliły nam na ugruntowanie naszej\_ pozycji na\_ rynku instalacyjnym.\n"
+          Posiadamy również punkt sprzedaży zaopatrujący inne firmy instalacyjne, ale również klientów indywidualnych
+          
+          Naszymi klientami są inwestorzy indywidualni ale przede wszystkim\_ przedsiębiorstwa, zakłady produkcyjne, logistyczne, instytucje Państwowe.\n\nCiągłe inwestowanie w rozwój, wdrażanie nowych technologii pozwoliły nam na ugruntowanie naszej\_ pozycji na\_ rynku instalacyjnym.\n"
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
