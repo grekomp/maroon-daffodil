@@ -50,7 +50,7 @@ sections:
         type: feature
         image: images/DSC01934.jpg
       - content: |
-          ## Lorem ipsum
+          Ciągłe inwestowanie w rozwój, wdrażanie nowych technologii pozwoliły nam na ugruntowanie naszej pozycji na rynku instalacyjnym.
         actions: []
         image_alt: lorem-ipsum
         media_position: left
