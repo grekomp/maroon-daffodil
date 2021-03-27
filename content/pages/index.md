@@ -13,7 +13,7 @@ sections:
       - label: Kontakt
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: images/logoblob.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
