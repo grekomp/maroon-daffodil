@@ -62,7 +62,7 @@ sections:
         type: feature
         image: images/DSC02197.jpg
   - type: cta_section
-    title: This is a Call to Action
+    title: Jesteś zainteresowany współpracą?
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Compare Plans
