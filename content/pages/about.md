@@ -72,7 +72,7 @@ sections:
           - label: Zobacz więcej
             url: /style-guide
             style: secondary
-            has_icon: false
+            has_icon: true
             icon: arrow-right
             icon_position: center
         actions_align: center
