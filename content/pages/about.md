@@ -24,7 +24,7 @@ sections:
           
           Naszymi klientami są inwestorzy indywidualni ale przede wszystkim przedsiębiorstwa, zakłady produkcyjne, logistyczne, instytucje Państwowe.
           
-          Ciągłe inwestowanie w rozwój, wdrażanie nowych technologii pozwoliły nam na ugruntowanie naszej\_ pozycji na\_ rynku instalacyjnym.\n"
+          Ciągłe inwestowanie w rozwój, wdrażanie nowych technologii pozwoliły nam na ugruntowanie naszej pozycji na rynku instalacyjnym."
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
