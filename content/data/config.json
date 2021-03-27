@@ -42,7 +42,6 @@
         "secondary_nav_links": [
             {
                 "label": "Contact",
-                "url": "/contact",
                 "style": "link"
             },
             {
