@@ -7,7 +7,6 @@ sections:
     form_width: fifty
     form_layout: stacked
     enable_card: true
-    form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields:
       - input_type: text
@@ -37,7 +36,7 @@ sections:
         type: form_field
       - input_type: checkbox
         name: Oświadczenie RODO
-        label: Oświadczam, iż zapoznałem/zapoznałam się z klauzulą informacyjną RODO
+        label: 'Oświadczam, iż zapoznałem/zapoznałam się z klauzulą informacyjną RODO'
         options: []
         is_required: true
         type: form_field
