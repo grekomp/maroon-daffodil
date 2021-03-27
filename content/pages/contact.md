@@ -13,19 +13,19 @@ sections:
       - input_type: text
         label: Imię i nazwisko
         default_value: Jan Kowalski
-        is_required: false
+        is_required: true
         type: form_field
         name: Imię i nazwisko
       - input_type: email
         label: E-mail
         default_value: adres@example.com
-        is_required: false
+        is_required: true
         type: form_field
         name: Email
       - input_type: tel
         label: Telefon
         default_value: 123 456 789
-        is_required: false
+        is_required: true
         type: form_field
         name: Telefon
       - input_type: textarea
