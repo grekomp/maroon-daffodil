@@ -23,7 +23,7 @@ sections:
         type: form_field
         name: Imię i nazwisko
       - input_type: tel
-        label: Imię i nazwisko
+        label: Telefon
         default_value: Jan Kowalski
         is_required: false
         type: form_field
