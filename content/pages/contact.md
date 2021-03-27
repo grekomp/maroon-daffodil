@@ -50,10 +50,10 @@ sections:
         name: Zgoda RODO 2
         label: >-
           Wyrażam zgodę na otrzymywanie informacji o treściach marketingowych oraz
-        handlowych w formie elektronicznej (e-mail, SMS) oraz w formie połączeń
-        głosowych (rozmowy telefoniczne). Zgoda jest zgodą dobrowolną, którą można
-        wycofać w dowolnym momencie (bez wpływu na zgodność przetwarzania, którego
-        dokonano przed jej wycofaniem),
+          handlowych w formie elektronicznej (e-mail, SMS) oraz w formie połączeń
+          głosowych (rozmowy telefoniczne). Zgoda jest zgodą dobrowolną, którą można
+          wycofać w dowolnym momencie (bez wpływu na zgodność przetwarzania, którego
+          dokonano przed jej wycofaniem),
         options: []
         is_required: true
         type: form_field
