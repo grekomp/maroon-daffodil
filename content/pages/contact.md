@@ -9,7 +9,14 @@ sections:
     enable_card: true
     form_id: lorem-ipsum
     form_action: lorem-ipsum
-    form_fields: []
+    form_fields:
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     submit_label: lorem-ipsum
     align_vert: top
     padding_top: medium
@@ -32,7 +39,7 @@ sections:
       - KRS: 0000100408
 
       ### Dane kontaktowe
-  
+
       - email: <copos@copos.com.pl>
       - telefon: [32 276 13 42](tel:322761342)
 
