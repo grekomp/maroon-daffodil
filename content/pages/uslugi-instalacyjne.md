@@ -15,27 +15,27 @@ sections:
             style: primary
             type: action
           - label: Klimatyzacja
-            url: /uslugi-instalacyjne/odkurzacze-centralne
+            url: /uslugi-instalacyjne/klimatyzacja
             style: primary
             type: action
           - label: Wentylacja-Rekuperacja
-            url: /uslugi-instalacyjne/odkurzacze-centralne
+            url: /uslugi-instalacyjne/wentylacja-rekuperacja
             style: primary
             type: action
           - label: Ogrzewania podłogowe i grzejnikowe
-            url: /uslugi-instalacyjne/odkurzacze-centralne
+            url: /uslugi-instalacyjne/ogrzewanie-podlogowe-i-grzejnikowe
             style: primary
             type: action
           - label: Kotłownie gazowe
-            url: /uslugi-instalacyjne/odkurzacze-centralne
+            url: /uslugi-instalacyjne/kotlownie-gazowe
             style: primary
             type: action
           - label: Kolektory słoneczne
-            url: /uslugi-instalacyjne/odkurzacze-centralne
+            url: /uslugi-instalacyjne/kolektory-sloneczne
             style: primary
             type: action
           - label: Pompy ciepła
-            url: /uslugi-instalacyjne/odkurzacze-centralne
+            url: /uslugi-instalacyjne/pompy-ciepla
             style: primary
             type: action
         actions_align: left
@@ -51,23 +51,23 @@ sections:
         content_align: left
         actions:
           - label: Wentylacja i klimatyzacja
-            url: /uslugi-instalacyjne/odkurzacze-centralne
+            url: /uslugi-instalacyjne/wentylacja-i-klimatyzacja
             style: primary
             type: action
           - label: Ogrzewanie kubaturowe
-            url: /uslugi-instalacyjne/odkurzacze-centralne
+            url: /uslugi-instalacyjne/ogrzewanie-kubaturowe
             style: primary
             type: action
           - label: Kotłownie dużej mocy
-            url: /uslugi-instalacyjne/odkurzacze-centralne
+            url: /uslugi-instalacyjne/kotlownie-duzej-mocy
             style: primary
             type: action
           - label: Instalacje technologiczne
-            url: /uslugi-instalacyjne/odkurzacze-centralne
+            url: /uslugi-instalacyjne/instalacje-technologiczne
             style: primary
             type: action
           - label: Instalacje odwodnienia dachu
-            url: /uslugi-instalacyjne/odkurzacze-centralne
+            url: /uslugi-instalacyjne/instalacje-odwodnienia-dachu
             style: primary
             type: action
         actions_align: left
@@ -158,8 +158,8 @@ sections:
     align: center
     background_color: secondary
 seo:
-  title: ''
-  description: ''
+  title: ""
+  description: ""
   robots: []
   extra: []
   type: stackbit_page_meta
