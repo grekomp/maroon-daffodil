@@ -11,7 +11,7 @@ sections:
           jesteśmy w stanie realizować ambitne projekty, które wymagają wiedzy,
           zaplecza sprzętowego i logistycznego.
         image: images/DSC02248.jpg
-        image_alt: People in conversation in the office lounge area
+        image_alt:
         media_position: right
         media_width: fifty
       - content: >
@@ -20,7 +20,7 @@ sections:
           klimatyzacyjnych począwszy od koncepcji, projektu, realizacji a
           kończąc na serwisie.
         actions: []
-        image_alt: lorem-ipsum
+        image_alt:
         media_position: left
         media_width: fifty
         align: left
@@ -36,7 +36,7 @@ sections:
           przedsiębiorstwa, zakłady produkcyjne, logistyczne, instytucje
           Państwowe.
         actions: []
-        image_alt: lorem-ipsum
+        image_alt:
         media_position: right
         media_width: fifty
         align: left
@@ -46,7 +46,7 @@ sections:
           Ciągłe inwestowanie w rozwój, wdrażanie nowych technologii pozwoliły
           nam na ugruntowanie naszej pozycji na rynku instalacyjnym.
         actions: []
-        image_alt: lorem-ipsum
+        image_alt:
         media_position: left
         media_width: fifty
         align: left
@@ -135,30 +135,7 @@ sections:
     align: center
     background_color: secondary
 seo:
-  title: About
+  title: O firmie
   description: This is the about us page
-  extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: About
-      keyName: property
-    - name: 'og:description'
-      value: This is the about us page
-      keyName: property
-    - name: 'og:image'
-      value: images/about-1.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: About
-    - name: 'twitter:description'
-      value: This is the about us page
-    - name: 'twitter:image'
-      value: images/about-1.jpg
-      relativeUrl: true
 layout: advanced
 ---
