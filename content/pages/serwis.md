@@ -1,27 +1,43 @@
 ---
 title: Serwis
 sections:
-  - content: |
-      ![](/images/DSC02130.jpg)
+  - content: >
+      ![](/images/serwis.jpg)
+
 
       # Serwis
 
-      Oferujemy kompleksowy serwis kotłów grzewczych oraz instalacji wentylacji, klimatyzacji i pomp ciepła.
+
+      Oferujemy kompleksowy serwis kotłów grzewczych oraz instalacji wentylacji,
+      klimatyzacji i pomp ciepła.
+
 
       W przypadku kotłów wykonujemy:
 
-      - okresowe przeglądy
-      - naprawę kotłów
-      - pierwsze uruchomienie kotła
-      - montaż automatyki
+
+      *   okresowe przeglądy
+
+      *   naprawę kotłów
+
+      *   pierwsze uruchomienie kotła
+
+      *   montaż automatyki
+
 
       Prowadzimy działalność serwisową kotłów gazowych następujących marek:
-      - Vaillant
-      - Wolf
-      - Beretta
-      - Immergas
 
-      **Zgłoszenia serwisowe proszę składać telefonicznie na numer** [**32 276 13 42**](tel:322761342).
+
+      *   Vaillant
+
+      *   Wolf
+
+      *   Beretta
+
+      *   Immergas
+
+
+      **Zgłoszenia serwisowe proszę składać telefonicznie na numer** [**32 276
+      13 42**](tel:322761342).
     actions: []
     actions_position: bottom
     actions_width: fourty
@@ -102,8 +118,8 @@ sections:
     align: center
     background_color: secondary
 seo:
-  title: ""
-  description: ""
+  title: ''
+  description: ''
   robots: []
   extra: []
   type: stackbit_page_meta
