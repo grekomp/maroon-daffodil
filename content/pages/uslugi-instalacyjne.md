@@ -6,7 +6,7 @@ sections:
     actions: []
     grid_items:
       - title: Budownictwo indywidualne
-        subtitle: lorem-ipsum
+        subtitle: Usługi dla klientów indywidualnych
         title_align: left
         content: >-
           ## Lorem ipsum
