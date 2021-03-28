@@ -11,7 +11,7 @@ sections:
         content_align: left
         actions:
           - label: Budow
-            url: '/uslugi-instalacyjne/'
+            url: '/uslugi-instalacyjne/odkurzacze-centralne'
             style: link
             has_icon: false
             icon: arrow-left
