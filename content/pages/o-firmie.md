@@ -75,6 +75,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: primary
+    background_gradient: true
   - type: grid_section
     title: Nasza oferta
     grid_items:
@@ -145,26 +146,26 @@ seo:
   title: About
   description: This is the about us page
   extra:
-    - name: "og:type"
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: "og:title"
+    - name: 'og:title'
       value: About
       keyName: property
-    - name: "og:description"
+    - name: 'og:description'
       value: This is the about us page
       keyName: property
-    - name: "og:image"
+    - name: 'og:image'
       value: images/about-1.jpg
       keyName: property
       relativeUrl: true
-    - name: "twitter:card"
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: "twitter:title"
+    - name: 'twitter:title'
       value: About
-    - name: "twitter:description"
+    - name: 'twitter:description'
       value: This is the about us page
-    - name: "twitter:image"
+    - name: 'twitter:image'
       value: images/about-1.jpg
       relativeUrl: true
 layout: advanced
