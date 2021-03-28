@@ -31,12 +31,8 @@ sections:
       * armatura instalacyjna
       * ceramika łazienkowa
       * zawory
-      *   izolacje
-
-
+      * izolacje
       *   odkurzacze centralne
-
-
       *   ponadto – wkłady kominowe, naczynia przeponowe, uchwyty, uszczelki,
       wężyki ciepłomierze, wodomierze, manometry, odpowietrzniki, listwy
       osłonowe, narzędzia instalatorskie, preparaty uzdatniające, filtry,
