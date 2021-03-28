@@ -11,7 +11,7 @@ sections:
         url: /pricing
         style: primary
       - label: Kontakt
-        url: /features
+        url: /kontakt
         style: secondary
     image_alt: Hero section placeholder image
     media_position: left
