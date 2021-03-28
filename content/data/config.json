@@ -1,179 +1,121 @@
 {
-    "title": "Stackbit DIY Theme",
-    "path_prefix": "/",
-    "layout_type": "boxed",
-    "style": "minimal",
-    "palette": "red",
-    "mode": "light",
-    "base_font": "sans-serif",
-    "header": {
-        "title": "Copos",
-        "logo": "images/copos_logo.svg",
-        "logo_alt": "Copos Logo",
-        "has_primary_nav": true,
-        "primary_nav_links": [
-            {
-                "label": "Sprzedaż",
-                "url": "/features",
-                "style": "link"
-            },
-            {
-                "label": "Usługi instalacyjne",
-                "url": "/pricing",
-                "style": "link"
-            },
-            {
-                "label": "Serwis",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Realizacje",
-                "url": "/blog",
-                "style": "link"
-            },
-            {
-                "label": "O firmie",
-                "url": "/o-firmie",
-                "style": "link"
-            }
-        ],
-        "has_secondary_nav": true,
-        "secondary_nav_links": [
-            {
-                "label": "Masz pytania? Skontaktuj się z nami!",
-                "style": "link"
-            },
-            {
-                "label": "Kontakt",
-                "url": "/kontakt",
-                "style": "primary"
-            }
-        ],
-        "has_anncmnt": false,
-        "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
-        "anncmnt_align": "left",
-        "anncmnt_is_home_only": true,
-        "anncmnt_has_close": true,
-        "anncmnt_id": "new-features"
-    },
-    "footer": {
-        "logo_alt": "Copos logo",
-        "has_primary_nav": true,
-        "primary_nav_title": "Oferta",
-        "primary_nav_links": [
-            {
-                "label": "Sprzedaż",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Usługi instalacyjne",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "label": "Serwis",
-                "url": "#",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ],
-        "has_secondary_nav": true,
-        "secondary_nav_title": "Informacje",
-        "secondary_nav_links": [
-            {
-                "label": "O firmie",
-                "url": "/o-firmie",
-                "style": "link"
-            },
-            {
-                "label": "Realizacje",
-                "url": "/blog/category/general",
-                "style": "link"
-            },
-            {
-                "label": "Kontakt",
-                "url": "/blog/category/tutorials",
-                "style": "link"
-            },
-            {
-                "url": "/polityka-prywatnosci",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action",
-                "label": "Polityka prywatności"
-            }
-        ],
-        "has_tertiary_nav": false,
-        "tertiary_nav_title": "Ważne informacje",
-        "tertiary_nav_links": [
-            {
-                "label": "Polityka prywatności RODO",
-                "url": "/polityka-prywatnosci",
-                "style": "link"
-            }
-        ],
-        "has_social": false,
-        "social_links": [
-            {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "twitter",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "github",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "linkedin",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "YouTube",
-                "url": "https://www.youtube.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "youtube",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "Vimeo",
-                "url": "https://vimeo.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "vimeo",
-                "icon_position": "center",
-                "new_window": true
-            }
-        ],
-        "content": "&copy; Copos sp. z o. o.",
-        "links": []
-    },
-    "domain": "https://maroon-daffodil-e48e3.netlify.app",
-    "favicon": "images/logoblob.png"
+  "title": "Stackbit DIY Theme",
+  "path_prefix": "/",
+  "layout_type": "boxed",
+  "style": "minimal",
+  "palette": "red",
+  "mode": "light",
+  "base_font": "sans-serif",
+  "header": {
+    "title": "Copos",
+    "logo": "images/copos_logo.svg",
+    "logo_alt": "Copos Logo",
+    "has_primary_nav": true,
+    "primary_nav_links": [
+      {
+        "label": "Sprzedaż",
+        "url": "/sprzedaz",
+        "style": "link"
+      },
+      {
+        "label": "Usługi instalacyjne",
+        "url": "/uslugi-instalacyjne",
+        "style": "link"
+      },
+      {
+        "label": "Serwis",
+        "url": "/serwis",
+        "style": "link"
+      },
+      {
+        "label": "Realizacje",
+        "url": "/blog",
+        "style": "link"
+      },
+      {
+        "label": "O firmie",
+        "url": "/o-firmie",
+        "style": "link"
+      }
+    ],
+    "has_secondary_nav": true,
+    "secondary_nav_links": [
+      {
+        "label": "Masz pytania? Skontaktuj się z nami!",
+        "style": "link"
+      },
+      {
+        "label": "Kontakt",
+        "url": "/kontakt",
+        "style": "primary"
+      }
+    ],
+    "has_anncmnt": false,
+    "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
+    "anncmnt_align": "left",
+    "anncmnt_is_home_only": true,
+    "anncmnt_has_close": true,
+    "anncmnt_id": "new-features"
+  },
+  "footer": {
+    "logo_alt": "Copos logo",
+    "has_primary_nav": true,
+    "primary_nav_title": "Oferta",
+    "primary_nav_links": [
+      {
+        "label": "Sprzedaż",
+        "url": "/sprzedaz",
+        "style": "link"
+      },
+      {
+        "label": "Usługi instalacyjne",
+        "url": "/uslugi-instalacyjne",
+        "style": "link"
+      },
+      {
+        "label": "Serwis",
+        "url": "/serwis",
+        "style": "link",
+        "has_icon": false,
+        "icon": "arrow-left",
+        "icon_position": "right",
+        "new_window": false,
+        "no_follow": false,
+        "type": "action"
+      }
+    ],
+    "has_secondary_nav": true,
+    "secondary_nav_title": "Informacje",
+    "secondary_nav_links": [
+      {
+        "label": "O firmie",
+        "url": "/o-firmie",
+        "style": "link"
+      },
+      {
+        "label": "Realizacje",
+        "url": "/blog",
+        "style": "link"
+      },
+      {
+        "label": "Kontakt",
+        "url": "/kontakt",
+        "style": "link"
+      },
+      {
+        "url": "/polityka-prywatnosci",
+        "style": "link",
+        "label": "Polityka prywatności"
+      }
+    ],
+    "has_tertiary_nav": false,
+    "tertiary_nav_title": "Ważne informacje",
+    "tertiary_nav_links": [],
+    "has_social": false,
+    "social_links": [],
+    "content": "&copy; Copos sp. z o. o.",
+    "links": []
+  },
+  "domain": "https://maroon-daffodil-e48e3.netlify.app",
+  "favicon": "images/logoblob.png"
 }
