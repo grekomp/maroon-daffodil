@@ -15,7 +15,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - subtitle: null
+  - subtitle: Nasza oferta
     content: >
       W ofercie sprzedaży firmy „COPOS” znajduje się szeroki wachlarz artykułów
       branży instalacyjnej niezbędnych do wykonania wszelkich prac związanych z
