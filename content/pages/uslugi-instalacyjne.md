@@ -45,6 +45,46 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+      - title: Budownictwo indywidualne
+        subtitle: Usługi dla klientów indywidualnych
+        title_align: left
+        content_align: left
+        actions:
+          - label: Odkurzacze centralne
+            url: /uslugi-instalacyjne/odkurzacze-centralne
+            style: primary
+            type: action
+          - label: Klimatyzacja
+            url: /uslugi-instalacyjne/odkurzacze-centralne
+            style: primary
+            type: action
+          - label: Wentylacja-Rekuperacja
+            url: /uslugi-instalacyjne/odkurzacze-centralne
+            style: primary
+            type: action
+          - label: Ogrzewania podłogowe i grzejnikowe
+            url: /uslugi-instalacyjne/odkurzacze-centralne
+            style: primary
+            type: action
+          - label: Kotłownie gazowe
+            url: /uslugi-instalacyjne/odkurzacze-centralne
+            style: primary
+            type: action
+          - label: Kolektory słoneczne
+            url: /uslugi-instalacyjne/odkurzacze-centralne
+            style: primary
+            type: action
+          - label: Pompy ciepła
+            url: /uslugi-instalacyjne/odkurzacze-centralne
+            style: primary
+            type: action
+        actions_align: left
+        actions_width: auto
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
