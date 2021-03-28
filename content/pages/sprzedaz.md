@@ -17,8 +17,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - title: Section title
-    subtitle: Optional section subtitle
+  - subtitle: Optional section subtitle
     content: >-
       ## Lorem ipsum
 
