@@ -54,7 +54,7 @@ sections:
             url: /uslugi-instalacyjne/odkurzacze-centralne
             style: primary
             type: action
-          - label: Klimatyzacja
+          - label: Ogrzewanie kubaturowe
             url: /uslugi-instalacyjne/odkurzacze-centralne
             style: primary
             type: action
