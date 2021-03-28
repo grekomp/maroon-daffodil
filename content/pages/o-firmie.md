@@ -52,7 +52,7 @@ sections:
         align: left
         type: feature
         image: images/DSC02197.jpg
-    title: O firmie
+    title: O firmie Copos
   - type: cta_section
     title: Jesteś zainteresowany współpracą?
     content: >
