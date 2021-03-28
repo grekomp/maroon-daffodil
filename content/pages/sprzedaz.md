@@ -1,8 +1,7 @@
 ---
 title: Sprzedaż
 sections:
-  - title: Sprzedaż
-    actions: []
+  - actions: []
     image_alt: lorem-ipsum
     media_position: top
     media_width: fifty
