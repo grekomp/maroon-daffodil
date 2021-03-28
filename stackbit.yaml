@@ -564,6 +564,11 @@ models:
           - secondary
         default: none
         description: The background color of the section
+      - type: boolean
+        name: background_gradient
+        label: Background gradient
+        default: false
+        description: Add a gradient to the background color
       - type: image
         name: background_image
         label: Background image
