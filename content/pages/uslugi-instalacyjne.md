@@ -2,7 +2,7 @@
 title: Sprzedaż
 sections:
   - title: Usługi instalacyjne
-    subtitle: lorem-ipsum
+    subtitle: Nasza oferta
     actions: []
     grid_items: []
     grid_cols: three
