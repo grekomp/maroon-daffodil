@@ -26,7 +26,7 @@ sections:
             url: '/uslugi-instalacyjne/odkurzacze-centralne'
             style: primary
             type: action
-          - label: 
+          - label: Kotłownie gazowe
             url: '/uslugi-instalacyjne/odkurzacze-centralne'
             style: primary
             type: action
