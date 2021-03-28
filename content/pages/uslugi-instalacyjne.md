@@ -34,7 +34,7 @@ sections:
             url: '/uslugi-instalacyjne/odkurzacze-centralne'
             style: primary
             type: action
-          - label: Odkurzacze centralne
+          - label: Pompy ciepła
             url: '/uslugi-instalacyjne/odkurzacze-centralne'
             style: primary
             type: action
