@@ -11,7 +11,7 @@ sections:
         content_align: left
         actions:
           - label: Budow
-            url: '/uslugi'
+            url: '/uslugi-instalacyjne/'
             style: link
             has_icon: false
             icon: arrow-left
