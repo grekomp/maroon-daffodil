@@ -38,7 +38,7 @@ sections:
             url: /uslugi-instalacyjne/odkurzacze-centralne
             style: primary
             type: action
-        actions_align: center
+        actions_align: left
         actions_width: auto
         image_position: top
         image_width: fifty
