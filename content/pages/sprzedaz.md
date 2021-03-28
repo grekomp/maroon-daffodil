@@ -26,7 +26,6 @@ sections:
       W naszej ofercie znajdują się między innymi:
 
       - kotły
-      
       - podgrzewacze CWU
       - grzejniki
       - pompy ciepła
