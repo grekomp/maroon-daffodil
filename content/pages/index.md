@@ -22,7 +22,7 @@ sections:
     background_color: primary
     background_image: images/DSC02197.jpg
     background_image_opacity: 10
-    background_gradient: false
+    background_gradient: true
   - type: grid_section
     title: Nasza oferta
     grid_items:
