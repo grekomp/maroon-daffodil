@@ -185,6 +185,14 @@
 
 .bg-secondary {
   background: $color-secondary-sect-bg;
+
+  &.has-gradient {
+            background: radial-gradient(
+              at top left,
+              adjust-color($value, $lightness: +12%, $saturation: +20%) 0%,
+              adjust-color($value, $lightness: -12%, $saturation: +20%) 100%
+            );
+          }
 }
 
 @each $style in map-keys($theme-styles) {
