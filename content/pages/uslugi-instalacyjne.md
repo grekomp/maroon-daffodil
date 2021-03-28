@@ -45,7 +45,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-      - title: Budownictwo indywidualne
+      - title: Budownictwo przemysłowe
         subtitle: Usługi dla klientów indywidualnych
         title_align: left
         content_align: left
