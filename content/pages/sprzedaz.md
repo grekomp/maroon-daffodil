@@ -29,12 +29,8 @@ sections:
       * grzejniki
       * pompy ciepła
       * armatura instalacyjna
-      *   ceramika łazienkowa
-
-
-      *   zawory
-
-
+      * ceramika łazienkowa
+      * zawory
       *   izolacje
 
 
