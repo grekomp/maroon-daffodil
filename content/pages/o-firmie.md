@@ -1,14 +1,6 @@
 ---
 title: O firmie
 sections:
-  - type: hero_section
-    align: center
-    background_color: secondary
-    image: images/copos_logo.svg
-    media_position: bottom
-    image_alt: Copos logo
-    media_width: fourty
-    background_image_opacity: 40
   - type: features_section
     features:
       - content: >
