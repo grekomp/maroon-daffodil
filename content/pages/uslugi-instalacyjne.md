@@ -12,7 +12,7 @@ sections:
         actions:
           - label: Odkurzacze centralne
             url: /uslugi-instalacyjne/odkurzacze-centralne
-            style: secondary
+            style: primary
             type: action
           - label: Klimatyzacja
             url: /uslugi-instalacyjne/odkurzacze-centralne
