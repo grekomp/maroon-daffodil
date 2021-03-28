@@ -24,16 +24,16 @@ sections:
 
 
       W naszej ofercie znajdują się między innymi:
-      * kotły
-      * podgrzewacze CWU
-      * grzejniki
-      * pompy ciepła
-      * armatura instalacyjna
-      * ceramika łazienkowa
-      * zawory
-      * izolacje
-      * odkurzacze centralne
-      * ponadto – wkłady kominowe, naczynia przeponowe, uchwyty, uszczelki,
+      - kotły
+      - podgrzewacze CWU
+      - grzejniki
+      - pompy ciepła
+      - armatura instalacyjna
+      - ceramika łazienkowa
+      - zawory
+      - izolacje
+      - odkurzacze centralne
+      - ponadto – wkłady kominowe, naczynia przeponowe, uchwyty, uszczelki,
       wężyki ciepłomierze, wodomierze, manometry, odpowietrzniki, listwy
       osłonowe, narzędzia instalatorskie, preparaty uzdatniające, filtry,
       wymienniki, sterowniki i wiele innych
