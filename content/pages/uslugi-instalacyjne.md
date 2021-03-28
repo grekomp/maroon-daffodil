@@ -58,15 +58,15 @@ sections:
             url: /uslugi-instalacyjne/odkurzacze-centralne
             style: primary
             type: action
-          - label: Wentylacja-Rekuperacja
+          - label: Kotłownie dużej mocy
             url: /uslugi-instalacyjne/odkurzacze-centralne
             style: primary
             type: action
-          - label: Ogrzewania podłogowe i grzejnikowe
+          - label: Instalacje technologiczne
             url: /uslugi-instalacyjne/odkurzacze-centralne
             style: primary
             type: action
-          - label: Kotłownie gazowe
+          - label: Instalacje odwodnienia dachu
             url: /uslugi-instalacyjne/odkurzacze-centralne
             style: primary
             type: action
