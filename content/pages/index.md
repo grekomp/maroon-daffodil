@@ -90,14 +90,14 @@ sections:
     background_color: none
     actions: []
 seo:
-  title: Stackbit DIY Theme
+  title: Copos Systemy Instalacyjne
   description: The preview of the DIY theme
   extra:
     - name: "og:type"
       value: website
       keyName: property
     - name: "og:title"
-      value: Stackbit DIY Theme
+      value: Copos Systemy Instalacyjne
       keyName: property
     - name: "og:description"
       value: The preview of the DIY theme
