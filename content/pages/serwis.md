@@ -1,52 +1,27 @@
 ---
-title: Sprzedaż
+title: Serwis
 sections:
-  - content: >
+  - content: |
       ![](/images/DSC02130.jpg)
 
+      # Serwis
 
-      # Sprzedaż
+      Oferujemy kompleksowy serwis kotłów grzewczych oraz instalacji wentylacji, klimatyzacji i pomp ciepła.
 
+      W przypadku kotłów wykonujemy:
 
-      W ofercie sprzedaży firmy „COPOS” znajduje się szeroki wachlarz artykułów
-      branży instalacyjnej niezbędnych do wykonania wszelkich prac związanych z
-      ogrzewaniem, wentylacją, klimatyzacją, instalacjami wody ,kanalizacji i
+      - okresowe przeglądy
+      - naprawę kotłów
+      - pierwsze uruchomienie kotła
+      - montaż automatyki
 
-      gazu.
+      Prowadzimy działalność serwisową kotłów gazowych następujących marek:
+      - Vaillant
+      - Wolf
+      - Beretta
+      - Immergas
 
-
-      ### W naszej ofercie znajdują się między innymi:
-
-
-      *   kotły
-
-      *   podgrzewacze CWU
-
-      *   grzejniki
-
-      *   pompy ciepła
-
-      *   armatura instalacyjna
-
-      *   ceramika łazienkowa
-
-      *   zawory
-
-      *   izolacje
-
-      *   odkurzacze centralne
-
-      *   ponadto – wkłady kominowe, naczynia przeponowe, uchwyty, uszczelki,
-      wężyki ciepłomierze, wodomierze, manometry, odpowietrzniki, listwy
-      osłonowe, narzędzia instalatorskie, preparaty uzdatniające, filtry,
-      wymienniki, sterowniki
-
-      *   ...i wiele innych
-
-
-      Asortyment ten jest stale poszerzany o produkty renomowanych firm, z
-
-      uwzględnieniem potrzeb klientów.
+      **Zgłoszenia serwisowe proszę składać telefonicznie na numer** [**32 276 13 42**](tel:322761342).
     actions: []
     actions_position: bottom
     actions_width: fourty
