@@ -187,12 +187,12 @@
   background: $color-secondary-sect-bg;
 
   &.has-gradient {
-            background: radial-gradient(
-              at top left,
-              adjust-color($color-secondary-sect-bg, $lightness: +12%, $saturation: +20%) 0%,
-              adjust-color($color-secondary-sect-bg, $lightness: -12%, $saturation: +20%) 100%
-            );
-          }
+    background: radial-gradient(
+        at top left,
+        adjust-color($color-secondary-sect-bg, $lightness: +12%, $saturation: +20%) 0%,
+        adjust-color($color-secondary-sect-bg, $lightness: -12%, $saturation: +20%) 100%
+    );
+  }
 }
 
 @each $style in map-keys($theme-styles) {
