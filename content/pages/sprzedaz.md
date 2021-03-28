@@ -22,21 +22,12 @@ sections:
       W ofercie sprzedaży firmy „COPOS” znajduje się szeroki wachlarz artykułów branży instalacyjnej niezbędnych do wykonania wszelkich prac związanych z ogrzewaniem, wentylacją, klimatyzacją, instalacjami wody ,kanalizacji i
       gazu. 
 
+
       W naszej ofercie znajdują się między innymi:
-
-
-      *   kotły
-
-
-      *   podgrzewacze CWU
-
-
-      *   grzejniki
-
-
-      *   pompy ciepła
-
-
+      * kotły
+      * podgrzewacze CWU
+      * grzejniki
+      * pompy ciepła
       *   armatura instalacyjna
 
 
