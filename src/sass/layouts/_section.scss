@@ -177,7 +177,7 @@
   &.has-gradient {
     background: radial-gradient(
       at top left,
-      adjust-color($color-primary, $lightness: +10%) 0%,
+      adjust-color($color-primary-sect-bg, $lightness: +10%) 0%,
       $color-primary 100%
     );
   }
