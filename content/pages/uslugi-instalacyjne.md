@@ -70,14 +70,6 @@ sections:
             url: /uslugi-instalacyjne/odkurzacze-centralne
             style: primary
             type: action
-          - label: Kolektory słoneczne
-            url: /uslugi-instalacyjne/odkurzacze-centralne
-            style: primary
-            type: action
-          - label: Pompy ciepła
-            url: /uslugi-instalacyjne/odkurzacze-centralne
-            style: primary
-            type: action
         actions_align: left
         actions_width: auto
         image_position: top
