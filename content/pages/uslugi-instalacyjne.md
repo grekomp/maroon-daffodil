@@ -14,6 +14,14 @@ sections:
             url: '/uslugi-instalacyjne/odkurzacze-centralne'
             style: primary
             type: action
+          - label: Odkurzacze centralne
+            url: '/uslugi-instalacyjne/odkurzacze-centralne'
+            style: primary
+            type: action
+          - label: Odkurzacze centralne
+            url: '/uslugi-instalacyjne/odkurzacze-centralne'
+            style: primary
+            type: action
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
