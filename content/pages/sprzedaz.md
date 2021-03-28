@@ -19,8 +19,7 @@ sections:
     type: hero_section
   - subtitle: Optional section subtitle
     content: >
-      W ofercie sprzedaży firmy „COPOS” znajduje się szeroki wachlarz artykułów
-      branży instalacyjnej niezbędnych do wykonania wszelkich prac związanych z
+      W ofercie sprzedaży firmy „COPOS” znajduje się szeroki wachlarz artykułów branży instalacyjnej niezbędnych do wykonania wszelkich prac związanych z
       ogrzewaniem, wentylacją, klimatyzacją, instalacjami wody ,kanalizacji i
       gazu.
 
