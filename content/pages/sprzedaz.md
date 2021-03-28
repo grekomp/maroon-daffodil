@@ -17,11 +17,10 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - subtitle: Optional section subtitle
-    content: >
+  - subtitle:
+    content: |
       W ofercie sprzedaży firmy „COPOS” znajduje się szeroki wachlarz artykułów branży instalacyjnej niezbędnych do wykonania wszelkich prac związanych z ogrzewaniem, wentylacją, klimatyzacją, instalacjami wody ,kanalizacji i
       gazu. 
-
 
       W naszej ofercie znajdują się między innymi:
 
@@ -34,10 +33,8 @@ sections:
       - zawory
       - izolacje
       - odkurzacze centralne
-      - ponadto – wkłady kominowe, naczynia przeponowe, uchwyty, uszczelki,
-      wężyki ciepłomierze, wodomierze, manometry, odpowietrzniki, listwy
-      osłonowe, narzędzia instalatorskie, preparaty uzdatniające, filtry,
-      wymienniki, sterowniki i wiele innych
+      - ponadto – wkłady kominowe, naczynia przeponowe, uchwyty, uszczelki, wężyki ciepłomierze, wodomierze, manometry, odpowietrzniki, listwy osłonowe, narzędzia instalatorskie, preparaty uzdatniające, filtry, wymienniki, sterowniki
+      - ...i wiele innych
 
 
       Asortyment ten jest stale poszerzany o produkty renomowanych firm, z
@@ -56,8 +53,8 @@ sections:
     background_image_repeat: no-repeat
     type: content_section
 seo:
-  title: ''
-  description: ''
+  title: ""
+  description: ""
   robots: []
   extra: []
   type: stackbit_page_meta
