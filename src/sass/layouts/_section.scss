@@ -173,6 +173,14 @@
 
 .bg-primary {
   background: $color-primary-sect-bg;
+
+  &.has-gradient {
+    background: radial-gradient(
+      at top left,
+      adjust-color($color-primary, $lightness: +10%) 0%,
+      $color-primary 100%
+    );
+  }
 }
 
 .bg-secondary {
@@ -189,6 +197,14 @@
       &.palette-#{$color-suffix} {
         .bg-primary {
           background-color: $value;
+
+          &.has-gradient {
+            background: radial-gradient(
+              at top left,
+              adjust-color($value, $lightness: +10%) 0%,
+              $value 100%
+            );
+          }
         }
       }
     }
