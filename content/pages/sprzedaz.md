@@ -2,41 +2,46 @@
 title: Sprzedaż
 sections:
   - content: >
+      ![](/images/DSC02130.jpg)
+
+
+      # Sprzedaż
+
+
       W ofercie sprzedaży firmy „COPOS” znajduje się szeroki wachlarz artykułów
       branży instalacyjnej niezbędnych do wykonania wszelkich prac związanych z
       ogrzewaniem, wentylacją, klimatyzacją, instalacjami wody ,kanalizacji i
 
-      gazu. 
+      gazu.
 
 
       W naszej ofercie znajdują się między innymi:
 
 
-      - kotły
+      *   kotły
 
-      - podgrzewacze CWU
+      *   podgrzewacze CWU
 
-      - grzejniki
+      *   grzejniki
 
-      - pompy ciepła
+      *   pompy ciepła
 
-      - armatura instalacyjna
+      *   armatura instalacyjna
 
-      - ceramika łazienkowa
+      *   ceramika łazienkowa
 
-      - zawory
+      *   zawory
 
-      - izolacje
+      *   izolacje
 
-      - odkurzacze centralne
+      *   odkurzacze centralne
 
-      - ponadto – wkłady kominowe, naczynia przeponowe, uchwyty, uszczelki,
+      *   ponadto – wkłady kominowe, naczynia przeponowe, uchwyty, uszczelki,
       wężyki ciepłomierze, wodomierze, manometry, odpowietrzniki, listwy
       osłonowe, narzędzia instalatorskie, preparaty uzdatniające, filtry,
       wymienniki, sterowniki
 
-      - ...i wiele innych
-
+      *   ...i wiele innych
 
 
       Asortyment ten jest stale poszerzany o produkty renomowanych firm, z
