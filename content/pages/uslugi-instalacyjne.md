@@ -5,7 +5,7 @@ sections:
     subtitle: Nasza oferta
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Budownictwo indywidualne
         subtitle: lorem-ipsum
         title_align: left
         content: >-
