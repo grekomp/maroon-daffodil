@@ -10,7 +10,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: Budow
+          - label: Odkurzacze centralne
             url: '/uslugi-instalacyjne/odkurzacze-centralne'
             style: primary
             has_icon: false
