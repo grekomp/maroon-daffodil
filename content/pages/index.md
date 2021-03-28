@@ -22,6 +22,7 @@ sections:
     background_color: primary
     background_image: images/IMG_5109.jpeg
     background_image_opacity: 10
+    background_gradient: false
   - type: grid_section
     title: Nasza oferta
     grid_items:
