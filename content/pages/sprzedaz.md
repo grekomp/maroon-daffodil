@@ -28,9 +28,7 @@ sections:
       * podgrzewacze CWU
       * grzejniki
       * pompy ciepła
-      *   armatura instalacyjna
-
-
+      * armatura instalacyjna
       *   ceramika łazienkowa
 
 
