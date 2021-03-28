@@ -15,7 +15,7 @@ sections:
       gazu.
 
 
-      ## W naszej ofercie znajdują się między innymi:
+      ### W naszej ofercie znajdują się między innymi:
 
 
       *   kotły
