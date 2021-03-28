@@ -8,7 +8,7 @@ sections:
       przemysłowego oraz kompleksowy serwis.
     actions:
       - label: Zobacz nasze realizacje
-        url: /pricing
+        url: /blog
         style: primary
       - label: Kontakt
         url: /kontakt
