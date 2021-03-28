@@ -18,11 +18,11 @@ sections:
             url: '/uslugi-instalacyjne/odkurzacze-centralne'
             style: primary
             type: action
-          - label: Odkurzacze centralne
+          - label: Wentylacja-Rekuperacja
             url: '/uslugi-instalacyjne/odkurzacze-centralne'
             style: primary
             type: action
-          - label: Odkurzacze centralne
+          - label: Ogrzewania podłogowe i grzejnikowe
             url: '/uslugi-instalacyjne/odkurzacze-centralne'
             style: primary
             type: action
