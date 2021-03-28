@@ -189,8 +189,8 @@
   &.has-gradient {
             background: radial-gradient(
               at top left,
-              adjust-color($value, $lightness: +12%, $saturation: +20%) 0%,
-              adjust-color($value, $lightness: -12%, $saturation: +20%) 100%
+              adjust-color($color-secondary-sect-bgvalue, $lightness: +12%, $saturation: +20%) 0%,
+              adjust-color($color-secondary-sect-bg, $lightness: -12%, $saturation: +20%) 100%
             );
           }
 }
