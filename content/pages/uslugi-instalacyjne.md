@@ -50,7 +50,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: Odkurzacze centralne
+          - label: Wentylacja i klimatyzacja
             url: /uslugi-instalacyjne/odkurzacze-centralne
             style: primary
             type: action
