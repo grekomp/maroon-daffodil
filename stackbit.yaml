@@ -12,7 +12,6 @@ logicFields:
   - blog_feed_section.recent_count
   - blog_feed_section.background_image_opacity
   - features_section.background_image_opacity
-  - hero_section.background_image_opacity
   - grid_section.background_image_opacity
   - content_section.background_image_opacity
   - cta_section.background_image_opacity
@@ -573,12 +572,11 @@ models:
         name: background_image
         label: Background image
         description: The image displayed in the background of the section
-      - type: number
-        name: background_image_opacity
-        label: Background image opacity
-        description: >-
-          An integer between 0 and 100. A lower value makes the image more
-          transparent
+      - type: boolean
+        name: background_image_translucent
+        label: background_image_transparency
+        description: If true, the background image will be translucent, revealing the background color
+        default: true;
       - type: enum
         name: background_image_size
         label: Background image size

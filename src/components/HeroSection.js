@@ -1,5 +1,6 @@
 import React from "react";
 import _ from "lodash";
+import Image from "next/image";
 
 import {
   classNames,
@@ -18,9 +19,11 @@ export default class HeroSection extends React.Component {
     let align_x = _.get(section, "align", null) || "center";
     let bg_color = _.get(section, "background_color", null) || "none";
     let bg_has_gradient = _.get(section, "background_gradient", false);
-    let bg_img_opacity_pct =
-      _.get(section, "background_image_opacity", null) || 100;
-    let bg_img_opacity = bg_img_opacity_pct * 0.01;
+    const bg_img_translucent = _.get(
+      section,
+      "background_image_translucent",
+      false
+    );
     let bg_img_size = _.get(section, "background_image_size", null) || "cover";
     let bg_img_position =
       _.get(section, "background_image_position", null) || "center center";
@@ -74,20 +77,14 @@ export default class HeroSection extends React.Component {
           })}
         >
           {_.get(section, "background_image", null) && (
-            <div
-              className="cover-img"
-              style={toStyleObj(
-                "background-image: url('" +
-                  withPrefix(_.get(section, "background_image", null)) +
-                  "'); opacity: " +
-                  bg_img_opacity +
-                  "; background-size: " +
-                  bg_img_size +
-                  "; background-repeat: " +
-                  bg_img_repeat +
-                  "; background-position: " +
-                  bg_img_position
-              )}
+            <Image
+              src={withPrefix(_.get(section, "background_image", null))}
+              layout="fill"
+              objectFit="cover"
+              objectPosition="center"
+              className={classNames({
+                "opacity-10": bg_img_translucent,
+              })}
             />
           )}
           <div
