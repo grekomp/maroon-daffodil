@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary-50: #fdf1ee;
+  --color-primary-100: #fae3dc;
+  --color-primary-200: #fcc1b2;
+  --color-primary-300: #fa9981;
+  --color-primary-400: #ec6148;
+  --color-primary-500: #e62f24;
+  --color-primary-600: #d42515;
+  --color-primary-700: #bb2119;
+  --color-primary-800: #9c1d16;
+  --color-primary-900: #7e1c18;
+}
+
+@layer components {
+  .btn {
+    @apply inline-flex whitespace-nowrap transition-all py-3 px-7 rounded-sm font-bold;
+    @apply bg-gray-100 text-gray-900;
+    @apply hover:bg-gray-200 active:bg-gray-300;
+  }
+
+  .btn-primary {
+    @apply bg-primary-500 text-gray-50;
+    @apply hover:bg-primary-400 active:bg-primary-600;
+    @apply shadow-md;
+  }
+  .btn-primary-inverted {
+    @apply btn-primary;
+    @apply bg-primary-50 text-gray-900;
+    @apply hover:bg-gray-200 active:bg-gray-300;
+  }
+
+  .btn-secondary {
+    @apply bg-gray-800 text-gray-50;
+    @apply hover:bg-gray-700 active:bg-gray-900;
+  }
+}
