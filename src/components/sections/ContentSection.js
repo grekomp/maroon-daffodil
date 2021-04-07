@@ -1,8 +1,8 @@
 import React from "react";
 import _ from "lodash";
 
-import { classNames, toStyleObj, withPrefix, markdownify } from "../utils";
-import SectionActions from "./SectionActions";
+import { classNames, toStyleObj, withPrefix, markdownify } from "../../utils";
+import SectionActions from "../SectionActions";
 
 export default class ContentSection extends React.Component {
   render() {
