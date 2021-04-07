@@ -1,8 +1,7 @@
 // import App from 'next/app'
 import { useEffect } from "react";
 import Router from "next/router";
-// import "../sass/main.scss";
-import "../sass/all.css";
+import "../css/all.css";
 
 function MyApp({ Component, pageProps }) {
   useEffect(() => {
