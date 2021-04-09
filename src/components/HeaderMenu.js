@@ -9,7 +9,15 @@ export default class HeaderMenu extends React.Component {
     let page = _.get(this.props, "page", null);
     let menu = _.get(this.props, "header_menu", null);
     return (
-      <ul className="m-0 p-0 md:items-center md:flex">
+      <ul
+        className={classNames(
+          "m-0",
+          "p-0",
+          "md:items-center",
+          "md:flex",
+          this.props?.className
+        )}
+      >
         {_.map(menu, (item, item_idx) => {
           let page_url = _.trim(_.get(page, "__metadata.urlPath", null), "/");
           let item_url = _.trim(_.get(item, "url", null), "/");
