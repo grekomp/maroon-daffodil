@@ -107,57 +107,57 @@ models:
     label: Header configuration
     labelField: title
     fields:
-      - type: string
-        name: title
+      - name: title
+        type: string
         label: Header title
         description: The title displayed in the header if logo image not specified
-      - type: image
-        name: logo
+      - name: logo
+        type: image
         label: Logo
         description: The logo image displayed on the left side
-      - type: string
-        name: logo_alt
+      - name: logo_alt
+        type: string
         label: Logo alt text
         description: The alt text of the logo image
-      - type: boolean
-        name: has_primary_nav
+      - name: has_primary_nav
+        type: boolean
         label: Enable primary navigation menu
         description: >-
           Display the navigation menu on the left side, next to the site
           title/logo
         default: true
-      - type: list
-        name: primary_nav_links
+      - name: primary_nav_links
+        type: list
         label: Primary navigation menu links
         description: List of navigation links
         items:
           type: model
           models:
             - action
-      - type: boolean
-        name: has_secondary_nav
+      - name: has_secondary_nav
+        type: boolean
         label: Enable secondary navigation menu
         description: Display the navigation menu on the right side
         default: true
-      - type: list
-        name: secondary_nav_links
+      - name: secondary_nav_links
+        type: list
         label: Secondary navigation menu links
         description: List of navigation links
         items:
           type: model
           models:
             - action
-      - type: boolean
-        name: has_anncmnt
+      - name: has_anncmnt
+        type: boolean
         label: Enable announcement
         description: Display the announcement above the site header
         default: false
-      - type: markdown
-        name: anncmnt_content
+      - name: anncmnt_content
+        type: markdown
         label: Announcement content
         description: The text content of the announcement
-      - type: enum
-        name: anncmnt_align
+      - name: anncmnt_align
+        type: enum
         label: Announcement horizontal alignment
         options:
           - left
@@ -165,18 +165,18 @@ models:
           - center
         default: left
         description: The horizontal alignment of the announcement content
-      - type: boolean
-        name: anncmnt_is_home_only
+      - name: anncmnt_is_home_only
+        type: boolean
         label: Show on home page
         description: Display the announcement on the home page only.
         default: false
-      - type: boolean
-        name: anncmnt_has_close
+      - name: anncmnt_has_close
+        type: boolean
         label: Enable announcement close
         description: Display the announcement close button
         default: false
-      - type: string
-        name: anncmnt_id
+      - name: anncmnt_id
+        type: string
         label: Announcement ID
         description: >-
           A unique identifier, required if close button is enabled. Must be
