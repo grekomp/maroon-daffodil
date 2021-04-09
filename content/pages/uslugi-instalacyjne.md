@@ -158,8 +158,8 @@ sections:
     align: center
     background_color: secondary
 seo:
-  title: ''
-  description: ''
+  title: ""
+  description: ""
   robots: []
   extra: []
   type: stackbit_page_meta
