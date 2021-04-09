@@ -15,7 +15,7 @@ export default class HeaderMenu extends React.Component {
           "p-0",
           "md:items-center",
           "md:flex",
-          this.props?.className
+          _.get(this.props, "className", null)
         )}
       >
         {_.map(menu, (item, item_idx) => {
